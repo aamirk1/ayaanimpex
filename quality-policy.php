@@ -4,7 +4,7 @@ include('header.php');
 <div class="page-content">
 
 <!-- INNER PAGE BANNER -->
-<div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/background/subheader.jpg);">
+<div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(asset/images/subheader.jpg);">
     <div class="overlay-main site-bg-black opacity-07"></div>
     <div class="container">
         <div class="wt-bnr-inr-entry">
@@ -45,17 +45,17 @@ include('header.php');
                 <div class="row justify-content-center d-flex">
                 
                     <div class="col-lg-6 col-md-12 m-b30 about-max-two-position">
-                        <div class="about-max-two">
-                            <div class="about-max-two-media"><img src="images/background/quality-policy.png" alt=""></div>
+                    <div class="about-max-two">
+                                        <div class="about-max-two-media"><img src="asset/images/quality-policy.png" alt=""></div>
 <!--
-                            <div class="about-max-two-video">
-                                <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
-                                    <i class="icon fa fa-play"></i>
-                                    <span class="ripple"></span>
-                                </a>
-                            </div>
+                                        <div class="about-max-two-video">
+                                            <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
+                                                <i class="icon fa fa-play"></i>
+                                                <span class="ripple"></span>
+                                            </a>
+                                        </div>
 -->
-                        </div>
+                                    </div>
                     </div> 
 
                    <div class="col-lg-6 col-md-12 m-b30">

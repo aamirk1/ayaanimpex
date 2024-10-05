@@ -5491,7 +5491,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .about-max-one:after {
-  background-image: url(../images/background/bg-plus.png);
+  background-image: url(../images/bg-plus.png);
   content: '';
   position: absolute;
   z-index: -1;
@@ -5537,7 +5537,7 @@ THEMEFOREST REQUIRED CLASSES
 
 .about-max-two:before {
   content: '';
-  background-image: url(../images/background/bg-plus.png);
+  background-image: url(../images/bg-plus.png);
   background-repeat: repeat;
   position: absolute;
   left: 0px;
@@ -11621,7 +11621,7 @@ form.woocommerce-ordering:after {
   }
 }
 
-@media  {
+@media  (max-width: 1270px){
   .wt-half-left {
     height: 647px;
     width: auto;
@@ -11716,7 +11716,7 @@ form.woocommerce-ordering:after {
   right: 0px;
   top: 0px;
   bottom: 0px;
-  background-image: url(../images/background/bg-plus.png);
+  background-image: url(asset/images/bg-plus.png);
   width: 50%;
 }
 
@@ -12438,7 +12438,7 @@ span.breadcrumbs {
     margin-bottom: 150px;
     text-shadow: -5px 5px 2px black;
 }
-}
+
 .counter-box .flex{
 	display: flex;
     /* text-align: center; */

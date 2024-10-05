@@ -1,11 +1,7 @@
 <?php
 include('header.php');
 ?>
-<?php
-include('topbar.php');
 
-include('navbar.php');
-?>
 <!-- section first starts here -->
 <?php
 include 'sections/section-one.php';

@@ -314,9 +314,9 @@ h2 {
 .site-bg-gray-light {
     background-color: #f9f9f9;
 }
-.container {
+/* .container {
     max-width: 1270px;
-}
+} */
 .wt-separator-two-part {
     padding-bottom: 50px;
 }
@@ -594,3 +594,4 @@ h3 {
 .wt-icon-box-wraper p:last-child {
     margin: 0px;
 }
+

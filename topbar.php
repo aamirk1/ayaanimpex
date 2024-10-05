@@ -9,12 +9,12 @@
                     <ul style="margin-top: 10px; margin-left: 40px;">
                         <li>
                             <i class="fa fa-phone"></i>
-                            <a href="tel:+919930614069">+91 99306 14069</a>
+                            <a href="tel:+919930614069" style="color:white;">+91 99306 14069</a>
                         </li>
                        
                         <li>
                             <i class="fa fa-envelope"></i>
-                            <a href="mailto:ayaanimpex6@gmail.com">ayaanimpex6@gmail.com</a>
+                            <a href="mailto:ayaanimpex6@gmail.com" style="color:white;">ayaanimpex6@gmail.com</a>
                         </li>
                     </ul>
                     <!-- <div class="col-md-6 text-light"></div> -->
@@ -24,10 +24,10 @@
             </div>
             <div class="col-md-6">
                 <ul class="social-icon">
-                    <li><a href="https://www.facebook.com/ayaanimpex/" class="fa fa-facebook"></a></li>
-                    <li><a href="https://twitter.com/ayaanimpex" class="fa fa-twitter"></a></li>
-                    <li><a href="https://www.instagram.com/ayaanimpex/" class="fa fa-instagram"></a></li>
-                    <li><a href="https://www.linkedin.com/in/ayaanimpex/" class="fa fa-linkedin"></a></li>
+                    <li><a href="https://www.facebook.com/ayaanimpex/" class="fa fa-facebook" style="color:white;"></a></li>
+                    <li><a href="https://twitter.com/ayaanimpex" class="fa fa-twitter" style="color:white;"></a></li>
+                    <li><a href="https://www.instagram.com/ayaanimpex/" class="fa fa-instagram" style="color:white;"></a></li>
+                    <li><a href="https://www.linkedin.com/in/ayaanimpex/" class="fa fa-linkedin" style="color:white;"></a></li>
                 </ul>
             </div>
         </div>

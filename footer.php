@@ -10,12 +10,12 @@
 							
                             <div class="widget widget_about">
                                 <div class="logo-footer clearfix">
-                                    <a href="index.php"><img src="asset/images/ayan-logo.png" alt="Ayaan Metal" title="Ayaan Metal" style="background: white;
+                                    <a href="index.php"><img src="asset/images/ayan-logo.png" alt="Ayaan Forging" title="Ayaan Forging" style="background: white;
     padding: 5px;
     width: 146px;
     border-radius: 10px;"></a>
                                 </div>
-                                <p style="color:white;">Ayaan Metal is the largest Nut Bolts &amp; Pipe Fittings Manufacturer. We Supply &amp; Export a wide range of Flanges, Plates to various areas of the world.</p>
+                                <p style="color:white;">Ayaan Forging is the largest Nut Bolts &amp; Pipe Fittings Manufacturer. We Supply &amp; Export a wide range of Flanges, Plates to various areas of the world.</p>
                               
 
                             </div>                            
@@ -37,13 +37,13 @@
                             <div class="widget widget_services">
                                 <h3 class="widget-title">Products</h3>
                                 <ul>
-                                    <li><a href="fastener-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Fastener</a></li>
-                                    <li><a href="pipe-fitting-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe Fittings</a></li>
-                                    <li><a href="flanges-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Flanges</a></li>
-                                       <li><a href="plate-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Plates</a></li>
+                                    <li><a href="products/fastener-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Fastener</a></li>
+                                    <li><a href="products/pipe-fitting-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe Fittings</a></li>
+                                    <li><a href="products/flanges-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Flanges</a></li>
+                                       <li><a href="products/plate-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Plates</a></li>
                                     
                                     
-                                       <li><a href="pipe-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe</a></li>
+                                       <li><a href="products/pipe-manufacturer-supplier-stockist-india.php" style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe</a></li>
                                        
                                       
 <!--
@@ -86,7 +86,7 @@ Morland Road, Mumbai - 400 008.</li>
                 	<div class="footer-bottom-info">
 
                         <div class="footer-copy-right">
-							<span class="copyrights-text">Copyright © 2023 <a href="index.php" style="color:white;">Ayaan Metal</a>. | All Rights Reserved | Designed and Developed by<a href="https://www.fourty60.com/" target="_blank" style="color:white;"> Fourty60 Infotech</a></span><a class="whatsapp-float" target="_blank" href="https://wa.me/+919930614069?text=RFQ%20Enquiry%20-%20ayanmetal.com%20please%20send%20me%20quick%20Quotes"> <img src="asset/images/whatsapp-icon.png" alt="Direct message to Ayaan Metals via whatsapp" title="Direct message to Ayaan Metals via Whatsapp"></a>
+							<span class="copyrights-text">Copyright © 2023 <a href="index.php" style="color:white;">Ayaan Forging</a>. | All Rights Reserved | Designed and Developed by<a href="https://www.fourty60.com/" target="_blank" style="color:white;"> Fourty60 Infotech</a></span><a class="whatsapp-float" target="_blank" href="https://wa.me/+919930614069?text=RFQ%20Enquiry%20-%20ayanmetal.com%20please%20send%20me%20quick%20Quotes"> <img src="asset/images/whatsapp-icon.png" alt="Direct message to Ayaan Metals via whatsapp" title="Direct message to Ayaan Forging via Whatsapp"></a>
                         </div>
                         
                     </div>
@@ -94,8 +94,14 @@ Morland Road, Mumbai - 400 008.</li>
             </div>   
     
         </footer>
+    
+    <script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
     <script  src="asset/js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
     <script  src="asset/js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
+    <script  src="asset/js/popper.min.js"></script><!-- WAYPOINTS JS -->
+    <script  src="asset/js/bootstrap.min.js"></script><!-- WAYPOINTS JS -->
+    <script  src="asset/js/jquery-3.6.0.min.js"></script><!-- WAYPOINTS JS -->
     <script  src="asset/js/counterup.min.js"></script><!-- COUNTERUP JS -->
     <script  src="asset/js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
     <script  src="asset/js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
