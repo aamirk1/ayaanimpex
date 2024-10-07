@@ -3,7 +3,7 @@
 <div class="page-content" style="transform: none;">
 
     <!-- INNER PAGE BANNER -->
-    <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/subheader.jpg);">
+    <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo $base_url;?>asset/images/subheader.jpg);">
         <div class="overlay-main site-bg-black opacity-07"></div>
         <div class="container">
             <div class="wt-bnr-inr-entry">

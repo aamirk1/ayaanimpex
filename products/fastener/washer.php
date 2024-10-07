@@ -124,8 +124,7 @@
 							</tr>
 							<tr>
 								<td><strong>&nbsp;Washer Size</strong></td>
-								<td>M02 to M33, Custom Sizes
-								</td>
+								<td>M02 to M33, Custom Sizes</td>
 							</tr>
 							<tr>
 								<td><strong>&nbsp;Form of Washer</strong></td>
