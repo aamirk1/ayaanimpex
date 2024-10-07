@@ -197,7 +197,7 @@
                                         <div class="col-md-6">
 
 
-                                            <img src="images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
+                                            <img src="<?php echo $base_url;?>asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
 
 
                                             <span class="ripple"></span>
@@ -495,7 +495,7 @@
                    <input type="text" name="phone" placeholder="Your Number" class="form-control" required="">
                    <textarea rows="2" name="message" placeholder="Your Message" class="form-control" required=""></textarea>
                    <p style="color: #626262; margin: 10px;">Security Question -<b><br> What is 4 + 2 ?</b></p><input type="text" class="form-control" name="subject" id="subject" placeholder="Your Answer" required="">
-                   <div class="validation"></div><a href="images/poster.zip" class="site-button btn-hover-animation">Submit</a>
+                   <div class="validation"></div><a href="<?php echo $base_url;?>asset/images/poster.zip" class="site-button btn-hover-animation">Submit</a>
                 </div>
              </form>
           </div>
