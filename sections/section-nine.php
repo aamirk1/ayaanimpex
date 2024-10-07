@@ -3,7 +3,7 @@
                     <!-- TITLE START-->
                     <div class="section-head center wt-small-separator-outer">
                         <div class="wt-small-separator site-text-primary">
-                            <div>Ayaan Metal</div>
+                            <div>Ayaan Forging</div>
                         </div>
                         <h2 class="wt-title">Industries We Serve Top Quality Products</h2>
                     </div>

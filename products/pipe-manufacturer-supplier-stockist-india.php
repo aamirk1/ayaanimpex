@@ -1,7 +1,7 @@
-<?php include '../header.php'; ?>
+<?php include_once('../header.php'); ?>
 <div class="page-content" style="transform: none;">
       <!-- INNER PAGE BANNER -->
-      <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/background/subheader.jpg);">
+      <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo $base_url;?>asset/images/subheader.jpg);">
          <div class="overlay-main site-bg-black opacity-07"></div>
          <div class="container">
             <div class="wt-bnr-inr-entry">
@@ -27,7 +27,7 @@
                         <!--Block one-->
                         <div class="blog-post blog-post-4-outer blog-list-style m-b30">
                            <div class="wt-post-media wt-img-effect zoom-slow">
-                              <a href="pipe-manufacturer-supplier-stockist-india.php"><img src="images/ayaanmetals/pipe/header-pipe.jpg" alt=" Pipe Manufacturer in India" title=" Pipe Manufacturer &amp; Supplier in India"></a>
+                              <a href="pipe-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipe/header-pipe.jpg" alt=" Pipe Manufacturer in India" title=" Pipe Manufacturer &amp; Supplier in India"></a>
                            </div>                                    
                            <div class="wt-post-info">
                               <div class="wt-post-meta ">
@@ -35,8 +35,8 @@
                                  </ul>
                               </div>                                 
                               <div class="wt-post-title ">
-                                 <h1 class="post-title"> Pipe Manufacturer, Supplier &amp; Stockist in India - Ayaan Metals</h1>
-                                 <p>Ayaan Metals is one of the leading <b><a href="pipe-manufacturer-supplier-stockist-india.php"> Pipe Manufacturer in India</a></b>. We supply <em>Pipe</em> in various grades like SS 304, SS 316, SS 321, SS 347 etc. and in a variety of thicknesses and dimensions. Our Pipes are used in numerous industries including Automotive industry, Aerospace industry, Ship Building and Oil &amp; Gas industry. Our Pipes meet national and international quality standards like ASTM, ASME, and JIS and are available at the most competitive prices making us one of the notable <b> Pipe Supplier in India </b>.</p>
+                                 <h1 class="post-title"> Pipe Manufacturer, Supplier &amp; Stockist in India - Ayaan Forgings</h1>
+                                 <p>Ayaan Forgings is one of the leading <b><a href="pipe-manufacturer-supplier-stockist-india.php"> Pipe Manufacturer in India</a></b>. We supply <em>Pipe</em> in various grades like SS 304, SS 316, SS 321, SS 347 etc. and in a variety of thicknesses and dimensions. Our Pipes are used in numerous industries including Automotive industry, Aerospace industry, Ship Building and Oil &amp; Gas industry. Our Pipes meet national and international quality standards like ASTM, ASME, and JIS and are available at the most competitive prices making us one of the notable <b> Pipe Supplier in India </b>.</p>
                                  <p>We use the highest quality raw materials for manufacturing Pipes. Our skilled engineers assure that quality is never compromised, and these Pipes are designed as per national &amp; international standards. We as a top <b>Pipe Stockist in India </b>offer Pipes in various grades, specifications &amp; dimensions and at reasonable prices as per customer requirements.  </p>
                               </div>
                            </div>                                
@@ -46,7 +46,7 @@
                            <div class="wt-post-info">
                               <div class="wt-post-title ">
                                  <h2 class="post-title"> Pipe Manufacturer, SS 316 Pipe Supplier, Nickel Alloy Pipe Stockist in India</h2>
-                                 <p>Ayaan Metals is a prominent<b> Pipe Supplier in India</b>.  We are continuously focused on creating a premium quality product in variety of materials such as <u>Stainless Steel, Carbon Steel, Duplex Steel, Super Duplex Steel, Inconel, Monel</u> and many more. We can also provide customized solutions to customers and provide with an on-time delivery of the products. Additionally, We are also a leading <a href="fastener-manufacturer-supplier-stockist-india.php">Fastener Supplier In India</a>.</p>
+                                 <p>Ayaan Forgings is a prominent<b> Pipe Supplier in India</b>.  We are continuously focused on creating a premium quality product in variety of materials such as <u>Stainless Steel, Carbon Steel, Duplex Steel, Super Duplex Steel, Inconel, Monel</u> and many more. We can also provide customized solutions to customers and provide with an on-time delivery of the products. Additionally, We are also a leading <a href="fastener-manufacturer-supplier-stockist-india.php">Fastener Supplier In India</a>.</p>
                               </div>
                            </div>                               
                         </div>
@@ -155,7 +155,7 @@
                                  <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                        <div class="wt-thum-bx wt-img-overlay1">
-                                          <a href="pipe-manufacturer-supplier-stockist-india.php"> <img src="images/ayaanmetals/pipe/pipe-img2.jpg" alt=" Pipe Manufacturer" title=" Pipe Manufacturer"></a>
+                                          <a href="pipe-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipe/pipe-img2.jpg" alt=" Pipe Manufacturer" title=" Pipe Manufacturer"></a>
                                        </div>
                                        <div class="wt-info text-center">
                                           <h3 class="wt-title">
@@ -168,7 +168,7 @@
                                  <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                        <div class="wt-thum-bx wt-img-overlay1">
-                                          <a href="pipe-manufacturer-supplier-stockist-india.php">  <img src="images/ayaanmetals/pipe/pipe-img1.jpg" alt=" Pipe Supplier" title=" Pipe Supplier"></a>
+                                          <a href="pipe-manufacturer-supplier-stockist-india.php">  <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipe/pipe-img1.jpg" alt=" Pipe Supplier" title=" Pipe Supplier"></a>
                                        </div>
                                        <div class="wt-info text-center">
                                           <h3 class="wt-title">
@@ -181,7 +181,7 @@
                                  <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                        <div class="wt-thum-bx wt-img-overlay1">
-                                          <a href="pipe-manufacturer-supplier-stockist-india.php">   <img src="images/ayaanmetals/pipe/pipe-img3.jpg" title=" Pipe Stockist" alt=" Pipe Stockist"></a>
+                                          <a href="pipe-manufacturer-supplier-stockist-india.php">   <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipe/pipe-img3.jpg" title=" Pipe Stockist" alt=" Pipe Stockist"></a>
                                        </div>
                                        <div class="wt-info text-center">
                                           <h3 class="wt-title">
@@ -212,7 +212,7 @@
                                     </ul>
                                  </div>
                                  <div class="col-md-6">
-                                    <img src="images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
+                                    <img src="<?php echo $base_url;?>asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
                                     <span class="ripple"></span>
                                  </div>
                               </div>
@@ -236,7 +236,7 @@
                         <div class="wt-post-info">
                            <div class="wt-post-title ">
                               <h2 class="post-title">Client Projects For Pipe</h2>
-                              <p>Ayaan Metals stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b> Pipe Manufacturer in India</b> and our clients familiar with it. We can provide you with the exact sizes available in stock and confirm the delivery schedule at earliest.</p>
+                              <p>Ayaan Forgings stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b> Pipe Manufacturer in India</b> and our clients familiar with it. We can provide you with the exact sizes available in stock and confirm the delivery schedule at earliest.</p>
                               <div class="table-responsive">
                                  <table class="table table-hover table-bordered">
                                     <tbody><tr>
@@ -328,7 +328,7 @@
                         <div class="wt-post-info">
                            <div class="wt-post-title ">
                               <h3 class="post-title">Countries We Export Pipe</h3>
-                              <p>Ayaan Metals is a well known <b>Pipe Exporter</b> in across the world majorly in Gulf countries including Saudi Arabia, Oman, Kuwait, Bahrain, etc. We export containers of Pipe to a range of clients from Indian ports to various different countries.</p>
+                              <p>Ayaan Forgings is a well known <b>Pipe Exporter</b> in across the world majorly in Gulf countries including Saudi Arabia, Oman, Kuwait, Bahrain, etc. We export containers of Pipe to a range of clients from Indian ports to various different countries.</p>
                               <div class="table-responsive">
                                  <table class="table table-hover table-bordered">
                                     <thead class="cart-header">
@@ -444,14 +444,14 @@
              <h4 class="widget-title">Get in Touch </h4>
           </div>
           <div class="form">
-             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanForging.com/message-sent-successfully.php" method="post">
                 <div class="col-md-12">
                    <input type="text" name="name" placeholder="Your Name" class="form-control" required="">
                    <input type="email" name="email" placeholder="Your Email" class="form-control" required="">
                    <input type="text" name="phone" placeholder="Your Number" class="form-control" required="">
                    <textarea rows="2" name="message" placeholder="Your Message" class="form-control" required=""></textarea>
                    <p style="color: #626262; margin: 10px;">Security Question -<b><br> What is 4 + 2 ?</b></p><input type="text" class="form-control" name="subject" id="subject" placeholder="Your Answer" required="">
-                   <div class="validation"></div><a href="images/poster.zip" class="site-button btn-hover-animation">Submit</a>
+                   <div class="validation"></div><a href="<?php echo $base_url;?>asset/images/poster.zip" class="site-button btn-hover-animation">Submit</a>
                 </div>
              </form>
           </div>
@@ -470,7 +470,7 @@
           <p> </p>
           <ul class="widget_address">
              <li><i class="flaticon-location"></i>Address : 43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</li>
-             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
+             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
 
              <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a href="tel:+919930614069">+91 99306 14069</a> </li>
              <li><i class="c-info-icon flaticon-phone-call"></i>Landline : <a href="tel:+912223051060">+91 22 2305 1060</a> </li>
@@ -511,4 +511,4 @@
       </div>   
       <!-- OUR BLOG END -->  
    </div>
-   <?php include '../footer.php'; ?>
+   <?php include_once('../footer.php'); ?>

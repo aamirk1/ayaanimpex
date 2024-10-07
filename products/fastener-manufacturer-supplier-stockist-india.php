@@ -1,8 +1,8 @@
-<?php include '../header.php'; ?>
+<?php include_once('../header.php'); ?>
 <div class="page-content" style="transform: none;">
 
     <!-- INNER PAGE BANNER -->
-    <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(../asset/images/subheader.jpg);">
+    <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo $base_url;?>asset/images/subheader.jpg);">
         <div class="overlay-main site-bg-black opacity-07"></div>
         <div class="container">
             <div class="wt-bnr-inr-entry">
@@ -53,7 +53,7 @@
                             <!--Block one-->
                             <div class="blog-post blog-post-4-outer blog-list-style m-b30">
                                 <div class="wt-post-media wt-img-effect zoom-slow">
-                                    <a href="fastener-manufacturer-supplier-stockist-india.php"><img src="../asset/images/ayaanmetals/fastener/header-fastener.jpg" alt=" Fastener Manufacturer in India" title=" Fastener Manufacturer &amp; Supplier in India"></a>
+                                    <a href="fastener-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/header-fastener.jpg" alt=" Fastener Manufacturer in India" title=" Fastener Manufacturer &amp; Supplier in India"></a>
                                 </div>
                                 <div class="wt-post-info">
                                     <div class="wt-post-meta ">
@@ -176,7 +176,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="bolt-manufacturer-supplier-stcokist-india.php"> <img src="../asset/images/ayaanmetals/fastener/bolt-img.jpg" alt=" Bolt Manufacturer and Supplier in india" title=" Bolt Manufacturer and Supplier in india"></a>
+                                                    <a href="bolt-manufacturer-supplier-stcokist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/bolt-img.jpg" alt=" Bolt Manufacturer and Supplier in india" title=" Bolt Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -195,7 +195,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="nut-manufacturer-supplier-stockist-india.php"> <img src="../asset/images/ayaanmetals/fastener/nut-img.jpg" alt=" Nut Manufacturer and Supplier in india" title=" Nut Manufacturer and Supplier in india"></a>
+                                                    <a href="nut-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/nut-img.jpg" alt=" Nut Manufacturer and Supplier in india" title=" Nut Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -214,7 +214,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="screw-manufacturer-supplier-stockist-india.php"> <img src="../asset/images/ayaanmetals/fastener/screw-img.jpg" title=" Screw Manufacturer and Supplier in india" alt=" Screw Manufacturer and Supplier in india"></a>
+                                                    <a href="screw-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/screw-img.jpg" title=" Screw Manufacturer and Supplier in india" alt=" Screw Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -234,7 +234,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="washer-manufacturer-supplier-stockist-india.php"> <img src="../asset/images/ayaanmetals/fastener/washer-img.jpg" title=" Washer Manufacturer and Supplier in india" alt=" Washer Manufacturer and Supplier in india"></a>
+                                                    <a href="washer-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/washer-img.jpg" title=" Washer Manufacturer and Supplier in india" alt=" Washer Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -255,7 +255,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="threaded-rod-manufacturer-supplier-stockist-india.php"> <img src="../asset/images/ayaanmetals/fastener/threaded-rod-img.jpg" title=" Threaded Rods Manufacturer and Supplier in india" alt=" Threaded Rods Manufacturer and Supplier in india"></a>
+                                                    <a href="threaded-rod-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/threaded-rod-img.jpg" title=" Threaded Rods Manufacturer and Supplier in india" alt=" Threaded Rods Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -276,7 +276,7 @@
                                         <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                             <div class="wt-box wt-product-box   overflow-hide">
                                                 <div class="wt-thum-bx wt-img-overlay1">
-                                                    <a href="stud-manufacturer-supplier-stockist-india.php"> <img src="../asset/images/ayaanmetals/fastener/stud-img.jpg" title=" Stud Manufacturer and Supplier in india" alt=" Stud Manufacturer and Supplier in india"></a>
+                                                    <a href="stud-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/fastener/stud-img.jpg" title=" Stud Manufacturer and Supplier in india" alt=" Stud Manufacturer and Supplier in india"></a>
 
                                                 </div>
 
@@ -637,7 +637,7 @@
                                         <div class="col-md-6">
 
 
-                                            <img src="../asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
+                                            <img src="<?php echo $base_url;?>asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
 
 
                                             <span class="ripple"></span>
@@ -928,7 +928,7 @@
              <h4 class="widget-title">Get in Touch </h4>
           </div>
           <div class="form">
-             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanForging.com/message-sent-successfully.php" method="post">
                 <div class="col-md-12">
                    <input type="text" name="name" placeholder="Your Name" class="form-control" required="">
                    <input type="email" name="email" placeholder="Your Email" class="form-control" required="">
@@ -951,7 +951,7 @@
 
           <ul class="widget_address">
              <li><i class="flaticon-location"></i>Address : 43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</li>
-             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
+             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
 
              <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a href="tel:+919930614069">+91 99306 14069</a> </li>
              <li><i class="c-info-icon flaticon-phone-call"></i>Landline : <a href="tel:+912223051060">+91 22 2305 1060</a> </li>
@@ -999,4 +999,4 @@
 
 
 </div>
-<?php include '../footer.php'; ?>
+<?php include_once('../footer.php'); ?>

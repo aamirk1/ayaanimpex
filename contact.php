@@ -59,7 +59,7 @@ include('header.php');
                             <div class="col-xl-4 col-lg-4 col-md-4 c-info-column">
                                 <div class="c-info-icon flaticon-email"></div>
                                 <span class="m-t0">Email address</span>
-								<p><a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></p>
+								<p><a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></p>
                             </div>
                         </div>
                     
@@ -76,7 +76,7 @@ include('header.php');
                             <div class="col-xl-6 col-lg-5 col-md-5">
                                 <div class="contact-left-media">
                                <div class="input-form">
-<form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+<form id="contactForm" action="https://olgagrom.com/f60cf/ayanForging.com/message-sent-successfully.php" method="post">
 <div class="row">
 <div class="col-md-12"><input type="text" name="name" placeholder="Your Name" class="form-control" required=""><input type="email" name="email" placeholder="Your Email" class="form-control" required=""><input type="text" name="phone" placeholder="Your Number" class="form-control" required=""><textarea rows="2" name="message" placeholder="Your Message" class="form-control" required=""></textarea>
 <p style="color: black; margin: 10px;">Security Question -<b><br> What is 4 + 2 ?</b></p><input type="text" class="form-control" name="subject" id="subject" placeholder="Your Answer" required="">

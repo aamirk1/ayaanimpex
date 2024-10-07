@@ -1,8 +1,8 @@
-<?php include '../header.php'; ?>
+<?php include_once('../header.php'); ?>
 <div class="page-content" style="transform: none;">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/background/subheader.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo $base_url;?>asset/images/subheader.jpg);">
             	<div class="overlay-main site-bg-black opacity-07"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -52,7 +52,7 @@
                                 <!--Block one-->
                                 <div class="blog-post blog-post-4-outer blog-list-style m-b30">
 									<div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="pipe-fitting-manufacturer-supplier-stockist-india.php"><img src="images/ayaanmetals/pipefitting/header-pipefitting.jpg" alt=" Pipe Fitting Manufacturer in India" title=" Pipe Fitting Manufacturer in India"></a>
+                                        <a href="pipe-fitting-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/header-pipefitting.jpg" alt=" Pipe Fitting Manufacturer in India" title=" Pipe Fitting Manufacturer in India"></a>
                                     </div>                                    
                                     <div class="wt-post-info">
                                         <div class="wt-post-meta ">
@@ -61,8 +61,8 @@
                                             </ul>
                                         </div>                                 
                                         <div class="wt-post-title ">
-                                            <h1 class="post-title"> Pipe Fitting Manufacturer, Supplier &amp; Stockist in India - Ayaan Metals</h1>
-                                                 <p>Ayaan Metals is one of the leading <b><a href="pipe-manufacturer-supplier-stockist-india.php"> Pipe Fitting Manufacturer in India</a></b>. we have available all type of Pipe Fitting in different <b>material, sizes, standards and grades</b>. we have teams of expert and proffesional for operate all task from selecting raw material to packaging. our manufactured <i>Pipe Fitting are used in various industries including Automobile, Pharmaceutical, Construction, Chemical and Mechanaical</i>.
+                                            <h1 class="post-title"> Pipe Fitting Manufacturer, Supplier &amp; Stockist in India - Ayaan Forgings</h1>
+                                                 <p>Ayaan Forgings is one of the leading <b><a href="pipe-manufacturer-supplier-stockist-india.php"> Pipe Fitting Manufacturer in India</a></b>. we have available all type of Pipe Fitting in different <b>material, sizes, standards and grades</b>. we have teams of expert and proffesional for operate all task from selecting raw material to packaging. our manufactured <i>Pipe Fitting are used in various industries including Automobile, Pharmaceutical, Construction, Chemical and Mechanaical</i>.
                                             We have established a solid reputation by offering high-quality products at competitive prices.  </p>
                                             
                                          <p>Our manufactured<b> Pipe Fittings</b> are matches national and international quality standards. we have pipe fitting of different standards including <b>DIN, ASTM, BS and all International Standards</b>. our Pipe Fitting are <u>heat resistant, corrosion resistant and highly long lasting and durable</u>. these speciality of are Pipe Fittings make us different and famous at international level. we have Pipe Fitting with different materials including Stainless Steel, Carbon Steel, Inconel, Monel, Incoloy, Duplex Steel, Super Duplex Steel, Hastelloy and etc. </p>
@@ -86,7 +86,7 @@
                                                                      
                                         <div class="wt-post-title ">
                                             <h2 class="post-title">Stainless Steel Pipe Fittings Manufacturer, Carbon Steel Pipe Fitting Supplier, Mild Steel Pipe Fitting Stockist in India</h2>
-                                               <p>Ayaan Metals is become a largest <b> Pipe Fitting Manufacturer and Supplier in India</b>, We are a top suppliers of <em>Elbow Fitting, Tee Fitting, Cross Fitting, Nipples Fitting, Outlet Fitting, End Cap Fitting, and Reducer Fittings</em>. We maintain an extensive stock of Pipe Fittings, ensuring prompt availability for their valued customers. Since it may be applied to a variety of applications, our bespoke range has also been warmly appreciated by our clients. When exposed to greater temperatures, these copper fittings demonstrate outstanding strength. We ar also leading supplier of <a href="fastener-manufacturer-supplier-stockist-india.php">Fasteners</a></p>.
+                                               <p>Ayaan Forgings is become a largest <b> Pipe Fitting Manufacturer and Supplier in India</b>, We are a top suppliers of <em>Elbow Fitting, Tee Fitting, Cross Fitting, Nipples Fitting, Outlet Fitting, End Cap Fitting, and Reducer Fittings</em>. We maintain an extensive stock of Pipe Fittings, ensuring prompt availability for their valued customers. Since it may be applied to a variety of applications, our bespoke range has also been warmly appreciated by our clients. When exposed to greater temperatures, these copper fittings demonstrate outstanding strength. We ar also leading supplier of <a href="fastener-manufacturer-supplier-stockist-india.php">Fasteners</a></p>.
                                         </div>
                                         
                                                                              
@@ -186,7 +186,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                           <a href="tee-fitting-manufacturer-supplier-stockist-india.php"> <img src="images/ayaanmetals/pipefitting/tee-pipefitting.jpg" alt="Tee Fitting Supplier" title="Tee Pipe Fitting Supplier"></a>
+                                           <a href="tee-fitting-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/tee-pipefitting.jpg" alt="Tee Fitting Supplier" title="Tee Pipe Fitting Supplier"></a>
                                          
                                         </div>
                                         
@@ -205,7 +205,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="elbow-fitting-manufacturer-supplier-stockist-india.php">  <img src="images/ayaanmetals/pipefitting/elbow-pipefitting.jpg" alt="Elbow Pipe Fitting Manufracturer" title="Elbow Pipe Fitting Manufracturer"></a>
+                                            <a href="elbow-fitting-manufacturer-supplier-stockist-india.php">  <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/elbow-pipefitting.jpg" alt="Elbow Pipe Fitting Manufracturer" title="Elbow Pipe Fitting Manufracturer"></a>
                                         
                                         </div>
                                        
@@ -224,7 +224,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="cross-fitting-manufacturer-supplier-stockist-india.php">   <img src="images/ayaanmetals/pipefitting/cross-pipefitting.jpg" title="Cross Pipe Fitting Stockist" alt="Cross Pipe Fitting Stockist"></a>
+                                            <a href="cross-fitting-manufacturer-supplier-stockist-india.php">   <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/cross-pipefitting.jpg" title="Cross Pipe Fitting Stockist" alt="Cross Pipe Fitting Stockist"></a>
                                             
                                         </div>
                                         
@@ -243,7 +243,7 @@
                                 <div class="ccol-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="bend-fitting-manufacturer-supplier-stockist-india.php"><img src="images/ayaanmetals/pipefitting/bend-pipefitting.jpg" alt="Bends Pipe Fitting Manufacturer" title="Bends Fitting Manufacturer"></a>
+                                            <a href="bend-fitting-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/bend-pipefitting.jpg" alt="Bends Pipe Fitting Manufacturer" title="Bends Fitting Manufacturer"></a>
                                      
                                         </div>
                                         
@@ -261,7 +261,7 @@
                                 <div class="ccol-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="outlet-fitting-manufacturer-supplier-stockist-india.php">  <img src="images/ayaanmetals/pipefitting/outlet-pipefitting.jpg" alt="Outlet Pipe Fitting Supplier" title="Outlet Pipe Fitting Supplier"></a>
+                                            <a href="outlet-fitting-manufacturer-supplier-stockist-india.php">  <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/outlet-pipefitting.jpg" alt="Outlet Pipe Fitting Supplier" title="Outlet Pipe Fitting Supplier"></a>
                                       
                                         </div>
                                         
@@ -280,7 +280,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="reducer-fitting-manufacturer-supplier-stockist-india.php">   <img src="images/ayaanmetals/pipefitting/reducer-pipefitting.jpg" alt="Reducer Pipe Fitting Stockist" title="Reducer Pipe Fitting Stockist"></a>
+                                            <a href="reducer-fitting-manufacturer-supplier-stockist-india.php">   <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/reducer-pipefitting.jpg" alt="Reducer Pipe Fitting Stockist" title="Reducer Pipe Fitting Stockist"></a>
                                         
                                         </div>
                                         
@@ -299,7 +299,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="nipple-fitting-manufacturer-supplier-stockist-india.php"><img src="images/ayaanmetals/pipefitting/nipple-pipefitting.jpg" alt="Nipples Pipe Fitting Manufacturer" title="Nipples Pipe Fitting Manufacturer"></a> 
+                                            <a href="nipple-fitting-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/nipple-pipefitting.jpg" alt="Nipples Pipe Fitting Manufacturer" title="Nipples Pipe Fitting Manufacturer"></a> 
                                       
                                         </div>
                                         
@@ -318,7 +318,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="end-cap-fitting-manufacturer-supplier-stockist-india.php"> <img src="images/ayaanmetals/pipefitting/endcap-pipefitting.jpg" alt="End Cap Pipe Fitting Supplier" title="End Cap Pipe Fitting Supplier"></a>
+                                            <a href="end-cap-fitting-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/endcap-pipefitting.jpg" alt="End Cap Pipe Fitting Supplier" title="End Cap Pipe Fitting Supplier"></a>
                                     
                                         </div>
                                         <div class="wt-info text-center">
@@ -335,7 +335,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="stub-end-fitting-manufacturer-supplier-stockist-india.php"> <img src="images/ayaanmetals/pipefitting/studend-pipefitting.jpg" alt="Stud Ends Pipe Fitting Stockist" title="Stud Ends Pipe Fitting Stockist"></a>
+                                            <a href="stub-end-fitting-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/pipefitting/studend-pipefitting.jpg" alt="Stud Ends Pipe Fitting Stockist" title="Stud Ends Pipe Fitting Stockist"></a>
                                       
                                         </div>
                                         
@@ -575,7 +575,7 @@
                         <div class="col-md-6">
                           
                                
-                                    <img src="images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
+                                    <img src="<?php echo $base_url;?>asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
                                    
                                        
                                         <span class="ripple"></span>
@@ -619,7 +619,7 @@
                                                                      
                                         <div class="wt-post-title ">
                                             <h2 class="post-title">Client Projects For Pipe Fitting</h2>
-                                               <p>Ayaan Metals stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b>Pipe Fitting Manufacturer and Supplier in India</b> and our clients familiar with it.</p>
+                                               <p>Ayaan Forgings stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b>Pipe Fitting Manufacturer and Supplier in India</b> and our clients familiar with it.</p>
                                             
                                             
                                             <div class="table-responsive">
@@ -864,14 +864,14 @@
              <h4 class="widget-title">Get in Touch </h4>
           </div>
           <div class="form">
-             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanForging.com/message-sent-successfully.php" method="post">
                 <div class="col-md-12">
                    <input type="text" name="name" placeholder="Your Name" class="form-control" required="">
                    <input type="email" name="email" placeholder="Your Email" class="form-control" required="">
                    <input type="text" name="phone" placeholder="Your Number" class="form-control" required="">
                    <textarea rows="2" name="message" placeholder="Your Message" class="form-control" required=""></textarea>
                    <p style="color: #626262; margin: 10px;">Security Question -<b><br> What is 4 + 2 ?</b></p><input type="text" class="form-control" name="subject" id="subject" placeholder="Your Answer" required="">
-                   <div class="validation"></div><a href="images/poster.zip" class="site-button btn-hover-animation">Submit</a>
+                   <div class="validation"></div><a href="<?php echo $base_url;?>asset/images/poster.zip" class="site-button btn-hover-animation">Submit</a>
                 </div>
              </form>
           </div>
@@ -890,7 +890,7 @@
           <p> </p>
           <ul class="widget_address">
              <li><i class="flaticon-location"></i>Address : 43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</li>
-             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
+             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
 
              <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a href="tel:+919930614069">+91 99306 14069</a> </li>
              <li><i class="c-info-icon flaticon-phone-call"></i>Landline : <a href="tel:+912223051060">+91 22 2305 1060</a> </li>
@@ -940,4 +940,4 @@
             
      
         </div>
-        <?php include('../footer.php'); ?>
+        <?php include_once('../footer.php'); ?>

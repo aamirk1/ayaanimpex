@@ -9,7 +9,7 @@
         <div class="section-content">
             <div class="row">
                     
-                <div class="col-lg-6 video-section-first-content-wrap bg-repeat-x bg-bottom-center" style="background-image: url(images/background/bg.png); border: 1px solid #a6a6a64a;">
+                <div class="col-lg-6 video-section-first-content-wrap bg-repeat-x bg-bottom-center" style="background-image: url(asset/images/bg.png); border: 1px solid #a6a6a64a;">
                     <div class="video-section-first-content p-tb120">
                         <div class="section-head left wt-small-separator-outer">
                             <div class="wt-small-separator site-text-primary">

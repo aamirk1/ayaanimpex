@@ -1,8 +1,8 @@
-<?php include('../header.php'); ?>
+<?php include_once('../header.php'); ?>
 <div class="page-content" style="transform: none;">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(asset/images/subheader.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo $base_url;?>asset/images/subheader.jpg);">
             	<div class="overlay-main site-bg-black opacity-07"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -53,7 +53,7 @@
                                 <!--Block one-->
                                 <div class="blog-post blog-post-4-outer blog-list-style m-b30">
 									<div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="flanges-manufacturer-supplier-stockist-india.php"><img src="asset/images/ayaanmetals/flanges/header-flanges.jpg" alt=" Flanges Manufacturer in India" title=" Flanges Manufacturer in India"></a>
+                                        <a href="flanges-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/header-flanges.jpg" alt=" Flanges Manufacturer in India" title=" Flanges Manufacturer in India"></a>
                                     </div>                                    
                                     <div class="wt-post-info">
                                         <div class="wt-post-meta ">
@@ -63,10 +63,10 @@
                                         </div>                                 
                                         
                                         <div class="wt-post-title ">
-                                            <h1 class="post-title">Flange Manufacturer, Supplier &amp; Stockist in India - Ayaan Metals</h1>
-                                                <p> Ayaan Metals is one of the leading <b><a href="flanges-manufacturer-supplier-stockist-india.php"> Flange Manufacturer in India</a></b>. our manufactured Flanges matches national and international quality standards and our supplied Flanges are used in various industries for multiple purpose. we have large inventory and we supply Flange in different standards including ANSI/ASME B16.5, B16.47 Series A &amp; B, B16.48, BS4504, BS 10, EN-1092, DIN, ANSI Flanges, ASME Flanges, BS Flanges, DIN Flanges, EN Flanges, GOST Flanges.</p>
+                                            <h1 class="post-title">Flange Manufacturer, Supplier &amp; Stockist in India - Ayaan Forgings</h1>
+                                                <p> Ayaan Forgings is one of the leading <b><a href="flanges-manufacturer-supplier-stockist-india.php"> Flange Manufacturer in India</a></b>. our manufactured Flanges matches national and international quality standards and our supplied Flanges are used in various industries for multiple purpose. we have large inventory and we supply Flange in different standards including ANSI/ASME B16.5, B16.47 Series A &amp; B, B16.48, BS4504, BS 10, EN-1092, DIN, ANSI Flanges, ASME Flanges, BS Flanges, DIN Flanges, EN Flanges, GOST Flanges.</p>
                                             
-                                            <p>We offer to our clients a wide range of Flange which are available in variety of grades and materials such as <u>Stainless Steel, Carbon Steel, Nickel Alloys, Incoloy, Monel, Hastelloy, Duplex Steel and Alloy Steel</u>. As a popular<b> Flange Manufacturer in India</b>, we have undertaken several strategic measures and initiatives to faster the development of the manufacturing and services sectors and we are also leading supplier of <b> Weld Neck Flange Supplier in India</b> in the metal market.</p>
+                                            <p>We offer to our clients a wide range of Flange which are available in variety of grades and materials such as <u>Stainless Steel, Carbon Steel, Nickel Alloys, Incoloy, Monel, Hastelloy, Duplex Steel and Alloy Steel</u>. As a popular<b> Flange Manufacturer in India</b>, we have undertaken several strategic measures and initiatives to faster the development of the manufacturing and services sectors and we are also leading supplier of <b> Weld Neck Flange Supplier in India</b> in the Forging market.</p>
                                             
                                            
                                         </div>
@@ -187,14 +187,14 @@
 								</tr>
 								<tr>
 									<td>Phosphor Bronze</td>
-									<td>ASTM B103, ASTM B134, ASTM B135, ASTM B36. <br> <strong>Manganese Bronze</strong> - ASTM 138. <br> <strong>Naval Brass</strong> - ASTM B21. <br> <strong>Muntz Metal</strong> - ASTM B111.</td>
+									<td>ASTM B103, ASTM B134, ASTM B135, ASTM B36. <br> <strong>Manganese Bronze</strong> - ASTM 138. <br> <strong>Naval Brass</strong> - ASTM B21. <br> <strong>Muntz Forging</strong> - ASTM B111.</td>
 								</tr>
 								<tr>
 									<td>Copper</td>
 									<td>ASTM B1, ASTM B2, ASTM B3, ASTM B152, ASTM B124, ASTM B133.</td>
 								</tr>
 								<tr>
-									<td>Gunmetal</td>
+									<td>GunForging</td>
 									<td>LG1, LG2, LG3, LG4.</td>
 								</tr>
 								<tr>
@@ -267,7 +267,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                           <a href="weld-neck-flange-manufacturer-supplier-stockist-india.php"> <img src="asset/images/ayaanmetals/flanges/weldneck-flange.jpg" alt="Weld Neck Flange Supplier" title="Weld Neck Flange Supplier"></a>
+                                           <a href="weld-neck-flange-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/weldneck-flange.jpg" alt="Weld Neck Flange Supplier" title="Weld Neck Flange Supplier"></a>
                                          
                                         </div>
                                         
@@ -286,7 +286,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="slip-on-flange-manufacturer-supplier-stockist-india.php">  <img src="asset/images/ayaanmetals/flanges/slipon-flange.jpg" alt="Slip On Flange Manufracturer" title="Slip On Flange Manufracturer"></a>
+                                            <a href="slip-on-flange-manufacturer-supplier-stockist-india.php">  <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/slipon-flange.jpg" alt="Slip On Flange Manufracturer" title="Slip On Flange Manufracturer"></a>
                                         
                                         </div>
                                        
@@ -305,7 +305,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="blind-flange-manufacturer-supplier-stockist-india.php">   <img src="asset/images/ayaanmetals/flanges/blind-flange.jpg" title="Blind Flange Stockist" alt="Blind Flange Stockist"></a>
+                                            <a href="blind-flange-manufacturer-supplier-stockist-india.php">   <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/blind-flange.jpg" title="Blind Flange Stockist" alt="Blind Flange Stockist"></a>
                                             
                                         </div>
                                         
@@ -324,7 +324,7 @@
                                 <div class="ccol-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="threaded-flange-manufatcurer-supplier-stockist-india.php"><img src="asset/images/ayaanmetals/flanges/threaded-flange.jpg" alt="Threaded Flange Manufacturer" title="Threaded Flange Manufacturer"></a>
+                                            <a href="threaded-flange-manufatcurer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/threaded-flange.jpg" alt="Threaded Flange Manufacturer" title="Threaded Flange Manufacturer"></a>
                                      
                                         </div>
                                         
@@ -342,7 +342,7 @@
                                 <div class="ccol-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="pressed-flange-manufacturer-supplier-stockist-india.php">  <img src="asset/images/ayaanmetals/flanges/pressed-flange.jpg" alt="Pressed Flange Supplier" title="Pressed Flange Supplier"></a>
+                                            <a href="pressed-flange-manufacturer-supplier-stockist-india.php">  <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/pressed-flange.jpg" alt="Pressed Flange Supplier" title="Pressed Flange Supplier"></a>
                                       
                                         </div>
                                         
@@ -361,7 +361,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="lap-joint-flange-manufacturer-supplier-stockist-india.php">   <img src="asset/images/ayaanmetals/flanges/lapjoint-flange.jpg" alt="Lap Joint Flange Stockist" title="Lap Joint Flange Stockist"></a>
+                                            <a href="lap-joint-flange-manufacturer-supplier-stockist-india.php">   <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/lapjoint-flange.jpg" alt="Lap Joint Flange Stockist" title="Lap Joint Flange Stockist"></a>
                                         
                                         </div>
                                         
@@ -380,7 +380,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="spade-flange-manufacturer-supplier-stockist-india.php"><img src="asset/images/ayaanmetals/flanges/spade-flange.jpg" alt="Spade Flange Manufacturer" title="Spade Flange Manufacturer"></a> 
+                                            <a href="spade-flange-manufacturer-supplier-stockist-india.php"><img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/spade-flange.jpg" alt="Spade Flange Manufacturer" title="Spade Flange Manufacturer"></a> 
                                       
                                         </div>
                                         
@@ -399,7 +399,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="reducing-flange-manufacturer-supplier-stockist-india.php"> <img src="asset/images/ayaanmetals/flanges/reducing-flange.jpg" alt="Reducing Flange Supplier" title="Reducing Flange Supplier"></a>
+                                            <a href="reducing-flange-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/reducing-flange.jpg" alt="Reducing Flange Supplier" title="Reducing Flange Supplier"></a>
                                     
                                         </div>
                                         <div class="wt-info text-center">
@@ -416,7 +416,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                     <div class="wt-box wt-product-box   overflow-hide">
                                         <div class="wt-thum-bx wt-img-overlay1">
-                                            <a href="orifice-flange-manufacturer-supplier-stockist-india.php"> <img src="asset/images/ayaanmetals/flanges/orific-flange.jpg" alt="Orifice Flange Stockist" title="Orifice Flange Stockist"></a>
+                                            <a href="orifice-flange-manufacturer-supplier-stockist-india.php"> <img src="<?php echo $base_url;?>asset/images/ayaanForgings/flanges/orific-flange.jpg" alt="Orifice Flange Stockist" title="Orifice Flange Stockist"></a>
                                       
                                         </div>
                                         
@@ -656,7 +656,7 @@
                         <div class="col-md-6">
                            
                                 
-                                    <img src="asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
+                                    <img src="<?php echo $base_url;?>asset/images/industry-img.jpg" alt="Industry We Supply" title="Industry We Supply">
                               
 
                                         <span class="ripple"></span>
@@ -700,7 +700,7 @@
                                                                      
                                         <div class="wt-post-title ">
                                             <h2 class="post-title">Client Projects For Flanges</h2>
-                                               <p>Ayaan Metals stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b>Flange Manufacturer in India</b> and our clients familiar with it.</p>
+                                               <p>Ayaan Forgings stands for on-time deliveries, competitive pricing, and high-quality as result we're leading <b>Flange Manufacturer in India</b> and our clients familiar with it.</p>
                                             
                                             
                                             <div class="table-responsive">
@@ -948,14 +948,14 @@
              <h4 class="widget-title">Get in Touch </h4>
           </div>
           <div class="form">
-             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanForging.com/message-sent-successfully.php" method="post">
                 <div class="col-md-12">
                    <input type="text" name="name" placeholder="Your Name" class="form-control" required="">
                    <input type="email" name="email" placeholder="Your Email" class="form-control" required="">
                    <input type="text" name="phone" placeholder="Your Number" class="form-control" required="">
                    <textarea rows="2" name="message" placeholder="Your Message" class="form-control" required=""></textarea>
                    <p style="color: #626262; margin: 10px;">Security Question -<b><br> What is 4 + 2 ?</b></p><input type="text" class="form-control" name="subject" id="subject" placeholder="Your Answer" required="">
-                   <div class="validation"></div><a href="images/poster.zip" class="site-button btn-hover-animation">Submit</a>
+                   <div class="validation"></div><a href="<?php echo $base_url;?>images/poster.zip" class="site-button btn-hover-animation">Submit</a>
                 </div>
              </form>
           </div>
@@ -974,7 +974,7 @@
           <p> </p>
           <ul class="widget_address">
              <li><i class="flaticon-location"></i>Address : 43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</li>
-             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
+             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
 
              <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a href="tel:+919930614069">+91 99306 14069</a> </li>
              <li><i class="c-info-icon flaticon-phone-call"></i>Landline : <a href="tel:+912223051060">+91 22 2305 1060</a> </li>
@@ -1024,4 +1024,4 @@
             
      
         </div>
-        <?php include('../footer.php'); ?>
+        <?php include_once('../footer.php'); ?>

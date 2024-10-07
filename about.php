@@ -72,9 +72,9 @@ include('header.php');
 
                                         <div class="about-one">
                                             <p>
-                                              Ayaan Metal is a well known Pipe Fittings Manufacturer &amp; Supplier in India. To ensure that our products fulfil industry standards, we offer a wide assortment of Pipe Fittings and Flanges produced from premium grade materials. We work hard as a team of specialists to provide excellent customer service by ensuring that every product is of high quality and delivered on time.
+                                              Ayaan Forging is a well known Pipe Fittings Manufacturer &amp; Supplier in India. To ensure that our products fulfil industry standards, we offer a wide assortment of Pipe Fittings and Flanges produced from premium grade materials. We work hard as a team of specialists to provide excellent customer service by ensuring that every product is of high quality and delivered on time.
                                             </p> 
-                                            <p>Pipe Fittings and Fasteners are manufactured from premium quality, hand-selected raw materials sourced from reputable vendors. These items are created and manufactured to meet the specific industrial needs of our clients. At Ayaan Metal, we ensure that all of our goods will fulfill worldwide quality standards and specifications. As a result, Ayaan Metal products can be utilized everywhere in the world without modification. We are also an ISO 9001:2015 certified company.
+                                            <p>Pipe Fittings and Fasteners are manufactured from premium quality, hand-selected raw materials sourced from reputable vendors. These items are created and manufactured to meet the specific industrial needs of our clients. At Ayaan Forging, we ensure that all of our goods will fulfill worldwide quality standards and specifications. As a result, Ayaan Forging products can be utilized everywhere in the world without modification. We are also an ISO 9001:2015 certified company.
                                             </p>
                                         </div>
 
@@ -145,7 +145,7 @@ include('header.php');
                                 <div class="wt-small-separator site-text-primary">
                                     <div>Prominent Manufacturer &amp; Supplier</div>
                                 </div>
-                                <h2 class="wt-title">Why Choose Us Ayaan Metal?</h2>
+                                <h2 class="wt-title">Why Choose Us Ayaan Forging?</h2>
                             </div>
                             <!-- TITLE END-->
 
