@@ -8,12 +8,12 @@
             <div class="wt-bnr-inr-entry">
                 <div class="auto-container">
                     <div class="content-box clearfix">
-                        <span class="breadcrumbs"> Reducer Fitting Manufacturer, Supplier &amp; Stockist in India</span>
+                        <span class="breadcrumbs"> Stub End Fitting Manufacturer, Supplier &amp; Stockist in
+                            India</span>
 
                     </div>
                 </div>
 
-                <!-- BREADCRUMB ROW END -->
             </div>
         </div>
     </div>
@@ -36,10 +36,10 @@
                             <!--Block one-->
                             <div class="blog-post blog-post-4-outer blog-list-style m-b30">
                                 <div class="wt-post-media wt-img-effect zoom-slow">
-                                    <a href="reducer-fitting-manufacturer-supplier-stockist-india.php"><img
-                                            src="<?php echo $base_url;?>asset/images/ayaanForgings/types-head/pipe-fitting/reducer-fitting.jpg"
-                                            alt=" Reducer Fitting Manufacturer in India"
-                                            title=" Reducer Fitting Manufacturer in India"></a>
+                                    <a href="stub-end-fitting-manufacturer-supplier-stockist-india.php"><img
+                                            src="<?php echo $base_url;?>asset/images/ayaanForgings/types-head/pipe-fitting/stub-end.jpg"
+                                            alt=" Stub End Fitting Manufacturer in India"
+                                            title=" Stub End Fitting Manufacturer in India"></a>
                                 </div>
                                 <div class="wt-post-info">
                                     <div class="wt-post-meta ">
@@ -48,27 +48,28 @@
                                         </ul>
                                     </div>
                                     <div class="wt-post-title ">
-                                        <h1 class="post-title"> Reducer Fitting Manufacturer, Supplier &amp; Stockist in
-                                            India - Ayaan Metals</h1>
+                                        <h1 class="post-title"> Stub End Fitting Manufacturer, Supplier &amp; Stockist
+                                            in India - Ayaan Metals</h1>
                                         <p>Ayaan Metals is one of the leading <b><a
-                                                    href="reducer-fitting-manufacturer-supplier-stockist-india.php">
-                                                    Reducer Fitting Manufacturer in India</a></b>. we have available all
-                                            type of Reducer Fitting in different <b>material, sizes, standards and
+                                                    href="stub-end-fitting-manufacturer-supplier-stockist-india.php">
+                                                    Stub End Fitting Manufacturer in India</a></b>. we have available
+                                            all type of Stub End Fitting in different <b>material, sizes, standards and
                                                 grades</b>. we have teams of expert and proffesional for operate all
-                                            task from selecting raw material to packaging. our manufactured <i>Reducer
+                                            task from selecting raw material to packaging. our manufactured <i>Stub End
                                                 Fitting are used in various industries including Automobile,
                                                 Pharmaceutical, Construction, Chemical and Mechanaical</i>.
                                             We have established a solid reputation by offering high-quality products at
                                             competitive prices. </p>
 
-                                        <p>Our manufactured<b> Reducer Fittings</b> are matches national and
-                                            international quality standards. we have Reducer Fitting of different
+                                        <p>Our manufactured<b> Stub End Fittings</b> are matches national and
+                                            international quality standards. we have Stub End Fitting of different
                                             standards including <b>DIN, ASTM, BS and all International Standards</b>.
-                                            our Reducer Fitting are <u>heat resistant, corrosion resistant and highly
-                                                long lasting and durable</u>. these speciality of are Reducer Fittings
-                                            make us different and famous at international level. we have Reducer Fitting
-                                            with different materials including Stainless Steel, Carbon Steel, Inconel,
-                                            Monel, Incoloy, Duplex Steel, Super Duplex Steel, Hastelloy and etc. </p>
+                                            our Stub End Fitting are <u>heat resistant, corrosion resistant and highly
+                                                long lasting and durable</u>. these speciality of are Stub End Fittings
+                                            make us different and famous at international level. we have Stub End
+                                            Fitting with different materials including Stainless Steel, Carbon Steel,
+                                            Inconel, Monel, Incoloy, Duplex Steel, Super Duplex Steel, Hastelloy and
+                                            etc. </p>
 
 
 
@@ -78,7 +79,7 @@
                                 </div>
                             </div>
 
-6967
+
 
 
 
@@ -88,14 +89,14 @@
                                 <div class="wt-post-info">
 
                                     <div class="wt-post-title ">
-                                        <h2 class="post-title">Stainless Steel Reducer Fittings Manufacturer, Carbon
-                                            Steel Reducer Fitting Supplier, Mild Steel Reducer Fitting Stockist in India
-                                        </h2>
-                                        <p>Ayaan Metals is become a largest <b> Reducer Fitting Manufacturer and
+                                        <h2 class="post-title">Stainless Steel Stub End Fittings Manufacturer, Carbon
+                                            Steel Stub End Fitting Supplier, Mild Steel Stub End Fitting Stockist in
+                                            India</h2>
+                                        <p>Ayaan Metals is become a largest <b> Stub End Fitting Manufacturer and
                                                 Supplier in India</b>, We are a top suppliers of <em>Elbow Fitting, Tee
                                                 Fitting, Cross Fitting, Nipples Fitting, Outlet Fitting, End Cap
                                                 Fitting, and Reducer Fittings</em>. We maintain an extensive stock of
-                                            Reducer Fittings, ensuring prompt availability for their valued customers.
+                                            Stub End Fittings, ensuring prompt availability for their valued customers.
                                             Since it may be applied to a variety of applications, our bespoke range has
                                             also been warmly appreciated by our clients. When exposed to greater
                                             temperatures, these copper fittings demonstrate outstanding strength. We ar
@@ -112,22 +113,31 @@
                                 <div class="wt-post-info">
 
                                     <div class="wt-post-title ">
-                                        <h2 class="post-title"> Reducer Fitting Standard, Specification, Size and Grades
-                                        </h2>
-                                        <p>Specification of Reducer Fitting with grades and standard size define in the
+                                        <h2 class="post-title"> Stub End Fitting Standard, Specification, Size and
+                                            Grades </h2>
+                                        <p>Specification of Stub End Fitting with grades and standard size define in the
                                             table below .</p>
                                         <div class="table-responsive">
                                             <table class="table table-hover table-bordered">
+
                                                 <tbody>
                                                     <tr>
                                                         <th>
                                                             <strong>Pipe Fitting Type</strong>
                                                         </th>
                                                         <th>
-                                                            <strong>Reducer Fitting Standard</strong>
+                                                            <strong>Butt-welded Fitting Stub Ends Lap Joints
+                                                                Standard</strong>
                                                         </th>
                                                     </tr>
-
+                                                    <tr>
+                                                        <td>
+                                                            <strong>Type Of Stub Ends Lap Joints</strong>
+                                                        </td>
+                                                        <td>
+                                                            Long Lap Joint (Stub End),Short Lap Joint (Stub End)
+                                                        </td>
+                                                    </tr>
                                                     <tr>
                                                         <td>
                                                             <strong>Size</strong>
@@ -153,18 +163,10 @@
                                                             Seamless / ERW / Welded / Fabricated
                                                         </td>
                                                     </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <strong>Form</strong>
-                                                        </td>
-                                                        <td>
-                                                            Eccentric Reducer, Concentric Reducer
-                                                        </td>
-                                                    </tr>
+
                                                     <tr>
                                                         <th>Materials</th>
                                                         <th>Grades</th>
-
                                                     </tr>
                                                     <tr>
                                                         <td>
@@ -217,7 +219,6 @@
 
 
 
-
                                             </table>
                                         </div>
                                     </div>
@@ -243,7 +244,7 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title">Application &amp; Uses of Reducer Fitting</h2>
+                                    <h2 class="post-title">Application &amp; Uses of Stub End Fitting</h2>
                                     <div class="row">
                                         <div class="col-md-6 m-b30">
 
@@ -292,11 +293,11 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title"> Additional Information of Reducer Fitting </h2>
+                                    <h2 class="post-title"> Additional Information of Stub End Fitting </h2>
                                     <ul class="ttm-list ttm-list-style-icon clearfix">
                                         <li><b>Payment Modes :</b> LC (Letter of Credit), TT (Telegraphic Transfer or
                                             Wire Transfer), Cheque, and others.</li>
-                                        <li><b>Packaging :</b> Reducer Fitting are packaged with caution and safety so
+                                        <li><b>Packaging :</b> Stub End Fitting are packaged with caution and safety so
                                             they reach our client’s as good as he would expect. Packaging Charges Extra.
                                         </li>
                                         <li><b>Port of Dispatch :</b> Mumbai or Kalamboli ports in the Maharashtra state
@@ -315,9 +316,9 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title">Client Projects For Reducer Fitting</h2>
+                                    <h2 class="post-title">Client Projects For Stub End Fitting</h2>
                                     <p>Ayaan Metals stands for on-time deliveries, competitive pricing, and high-quality
-                                        as result we're leading <b>Reducer Fitting Manufacturer and Supplier in
+                                        as result we're leading <b>Stub End Fitting Manufacturer and Supplier in
                                             India</b> and our clients familiar with it.</p>
 
 
@@ -329,19 +330,19 @@
                                                     <th>Cities</th>
                                                 </tr>
                                                 <tr>
-                                                    <td>Reducer Fitting Supplied To Oil &amp; Gas Industry</td>
+                                                    <td>Stub End Fitting Supplied To Oil &amp; Gas Industry</td>
                                                     <td>Bengaluru</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>All types of Reducer Fitting Supplied</td>
+                                                    <td>All types of Stub End Fitting Supplied</td>
                                                     <td>Ahmedabad</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Reducer Fitting</td>
+                                                    <td>Stub End Fitting</td>
                                                     <td>Surat</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Inconel Reducer Fitting</td>
+                                                    <td>Inconel Stub End Fitting</td>
                                                     <td>Rajahmundry</td>
                                                 </tr>
 
@@ -361,10 +362,10 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Cities We Supply Reducer Fitting</h3>
-                                    <p> Our extensive Reducer Fitting range is readily available in numerous cities
+                                    <h3 class="post-title">Cities We Supply Stub End Fitting</h3>
+                                    <p> Our extensive Stub End Fitting range is readily available in numerous cities
                                         across India, enabling us to efficiently serve our valued customers. Every
-                                        month, we supply and export containers of Reducer Fitting to a range of clients
+                                        month, we supply and export containers of Stub End Fitting to a range of clients
                                         from Indian ports to various cities.</p>
 
 
@@ -438,10 +439,10 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Countries We Export Reducer Fitting</h3>
-                                    <p> Our extensive Reducer Fitting range is readily available to serve numerous
+                                    <h3 class="post-title">Countries We Export Stub End Fitting</h3>
+                                    <p> Our extensive Stub End Fitting range is readily available to serve numerous
                                         countries across the world, enabling us to efficiently serve our valued
-                                        customers. Every month, We export containers of Reducer Fitting to a range of
+                                        customers. Every month, We export containers of Stub End Fitting to a range of
                                         clients from Indian ports to various different countries.</p>
 
 

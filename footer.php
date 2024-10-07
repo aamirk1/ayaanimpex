@@ -87,7 +87,7 @@ Morland Road, Mumbai - 400 008.</li>
                 	<div class="footer-bottom-info">
 
                         <div class="footer-copy-right">
-							<span class="copyrights-text">Copyright © 2023 <a href="<?php echo $base_url;?>index.php" style="color:white;">Ayaan Forging</a>. | All Rights Reserved | Designed and Developed by<a href="https://www.fourty60.com/" target="_blank" style="color:white;"> Fourty60 Infotech</a></span><a class="whatsapp-float" target="_blank" href="https://wa.me/+919930614069?text=RFQ%20Enquiry%20-%20ayanForging.com%20please%20send%20me%20quick%20Quotes"> <img src="<?php echo $base_url;?>asset/images/whatsapp-icon.png" alt="Direct message to Ayaan Forgings via whatsapp" title="Direct message to Ayaan Forging via Whatsapp"></a>
+							<span class="copyrights-text">Copyright &copy; <?php echo date("Y");?> <a href="<?php echo $base_url;?>index.php" style="color:white;">Ayaan Forging</a>. | All Rights Reserved | Designed and Developed by<a href="https://www.zapwms.com/" target="_blank" style="color:white;"> ZAP WMS</a></span><a class="whatsapp-float" target="_blank" href="https://wa.me/+919930614069?text=RFQ%20Enquiry%20-%20ayanForging.com%20please%20send%20me%20quick%20Quotes"> <img src="<?php echo $base_url;?>asset/images/whatsapp-icon.png" alt="Direct message to Ayaan Forgings via whatsapp" title="Direct message to Ayaan Forging via Whatsapp"></a>
                         </div>
                         
                     </div>

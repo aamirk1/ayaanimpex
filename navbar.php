@@ -96,28 +96,28 @@
                                         <div class="fa fa-angle-right submenu-toogle"></div>
 
                                         <ul class="sub-menu">
-                                            <li><a href="tee-fitting-manufacturer-supplier-stockist-india.php">Tee</a>
+                                            <li><a href="<?php echo $base_url;?>products/pipe-fitting/tee.php">Tee</a>
                                             </li>
                                             <li><a
-                                                    href="elbow-fitting-manufacturer-supplier-stockist-india.php">Elbow</a>
+                                                    href="<?php echo $base_url;?>products/pipe-fitting/elbow.php">Elbow</a>
                                             </li>
                                             <li><a
-                                                    href="cross-fitting-manufacturer-supplier-stockist-india.php">Cross</a>
+                                                    href="<?php echo $base_url;?>products/pipe-fitting/cross.php">Cross</a>
                                             </li>
-                                            <li><a href="bend-fitting-manufacturer-supplier-stockist-india.php">Bend</a>
-                                            </li>
-                                            <li><a
-                                                    href="outlet-fitting-manufacturer-supplier-stockist-india.php">Outlet</a>
+                                            <li><a href="<?php echo $base_url;?>products/pipe-fitting/bend.php">Bend</a>
                                             </li>
                                             <li><a
-                                                    href="reducer-fitting-manufacturer-supplier-stockist-india.php">Reducer</a>
+                                                    href="<?php echo $base_url;?>products/pipe-fitting/outlet.php">Outlet</a>
                                             </li>
                                             <li><a
-                                                    href="nipple-fitting-manufacturer-supplier-stockist-india.php">Nipple</a>
+                                                    href="<?php echo $base_url;?>products/pipe-fitting/reducer.php">Reducer</a>
                                             </li>
-                                            <li><a href="end-cap-fitting-manufacturer-supplier-stockist-india.php">End
+                                            <li><a
+                                                    href="nipple.php">Nipple</a>
+                                            </li>
+                                            <li><a href="<?php echo $base_url;?>products/pipe-fitting/end-cap.php">End
                                                     Cap</a></li>
-                                            <li><a href="stub-end-fitting-manufacturer-supplier-stockist-india.php">Stub
+                                            <li><a href="<?php echo $base_url;?>products/pipe-fitting/stub-end.php">Stub
                                                     End</a></li>
 
 
