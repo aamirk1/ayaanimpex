@@ -67,8 +67,8 @@
                                     </div>
                                     <div class="wt-post-title ">
                                         <h1 class="post-title"> Pressed Flange Manufacturer, Supplier &amp; Stockist in
-                                            India - Ayaan Metals</h1>
-                                        <p> Ayaan Metals is one of the leading <b><a
+                                            India - Ayaan forgings</h1>
+                                        <p> Ayaan forgings is one of the leading <b><a
                                                     href="pressed-flange-manufacturer-supplier-stockist-india.php">
                                                     Pressed Flange Manufacturer in India</a></b>. our manufactured
                                             Pressed Flanges matches national and international quality standards and our
@@ -84,7 +84,7 @@
                                                 Steel</u>. As a popular<b> Pressed Flange Manufacturer in India</b>, we
                                             have undertaken several strategic measures and initiatives to faster the
                                             development of the manufacturing and services sectors and we are also
-                                            leading supplier of <b> Pressed Flange Stockist in India</b> in the metal
+                                            leading supplier of <b> Pressed Flange Stockist in India</b> in the forging
                                             market.</p>
 
 
@@ -230,7 +230,7 @@
                                                         <td>ASTM B103, ASTM B134, ASTM B135, ASTM B36. <br>
                                                             <strong>Manganese Bronze</strong> - ASTM 138. <br>
                                                             <strong>Naval Brass</strong> - ASTM B21. <br> <strong>Muntz
-                                                                Metal</strong> - ASTM B111.</td>
+                                                                forging</strong> - ASTM B111.</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Copper</td>
@@ -238,7 +238,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td>Gunmetal</td>
+                                                        <td>Gunforging</td>
                                                         <td>LG1, LG2, LG3, LG4.</td>
                                                     </tr>
                                                     <tr>
@@ -590,9 +590,9 @@
 
                                 <div class="wt-post-title ">
                                     <h2 class="post-title">Client Projects For Pressed Flanges</h2>
-                                    <p>Pressed Flanges manufactured by Ayaan Metal are used in several international
+                                    <p>Pressed Flanges manufactured by Ayaan forging are used in several international
                                         projects. we have clients with regular demand for Pressed Flanges from various
-                                        countries and we export Pressed Flanges. Ayaan Metals stands for on-time
+                                        countries and we export Pressed Flanges. Ayaan forgings stands for on-time
                                         deliveries, competitive pricing, and high-quality as result we're leading
                                         <b>Pressed Flange Manufacturer in India</b></p>
 
@@ -866,7 +866,7 @@
                                     </div>
                                     <div class="form">
                                         <form id="contactForm"
-                                            action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php"
+                                            action="https://olgagrom.com/f60cf/ayanforging.com/message-sent-successfully.php"
                                             method="post">
                                             <div class="col-md-12">
                                                 <input type="text" name="name" placeholder="Your Name"
@@ -904,7 +904,7 @@
                                             Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai
                                             - 400 008.</li>
                                         <li><i class="flaticon-mail"></i>Email : <a
-                                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a>
+                                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanforging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a>
                                         </li>
 
                                         <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a

@@ -237,11 +237,11 @@ h2 {
     /* margin-left: 86px; */
     border-radius: 7px;
 }
-/* a {
-    color: #000;
+a {
+    color: #000 !important;
     outline: 0px none;
     text-decoration: none;
-} */
+}
 
 .wt-small-separator {
     border-left: 3px solid #fe0001;

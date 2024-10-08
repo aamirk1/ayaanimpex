@@ -42,10 +42,10 @@
                            </div>
 
                            <div class="wt-post-title ">
-                              <h1 class="post-title">Nickel Alloy Supplier &amp; Stockist in India - Ayaan Metals</h1>
-                              <p> Ayaan Metals is one of the leading <b><a href="nickel-alloy-supplier-stockist-india.php">Nickel Alloy Supplier in India</a></b>. our manufactured Nickel Alloy products matches national and international quality standards and our supplied Nickel Alloy Products are used in various industries. We have a variety of Nickel Alloy Products including Nickel Alloy Flanges, Nickel Alloy Pipe Fittings, Nickel Alloy Plates, Nickel Alloy Pipe &amp; Nickel Alloy Fasteners. Our Nickel Alloy products are well-known across India for its dependability and quality.</p>
+                              <h1 class="post-title">Nickel Alloy Supplier &amp; Stockist in India - Ayaan forgings</h1>
+                              <p> Ayaan forgings is one of the leading <b><a href="nickel-alloy-supplier-stockist-india.php">Nickel Alloy Supplier in India</a></b>. our manufactured Nickel Alloy products matches national and international quality standards and our supplied Nickel Alloy Products are used in various industries. We have a variety of Nickel Alloy Products including Nickel Alloy Flanges, Nickel Alloy Pipe Fittings, Nickel Alloy Plates, Nickel Alloy Pipe &amp; Nickel Alloy Fasteners. Our Nickel Alloy products are well-known across India for its dependability and quality.</p>
 
-                              <p><b>Nickel Alloy</b> Products at Ayaan Metals are manufactured according to international standards including ASTM, ASME, ANSI, EU, DIN, IS, ISO and JIS Standard making us among the leading <u>Nickel Alloy Stockist In India</u>.</p>
+                              <p><b>Nickel Alloy</b> Products at Ayaan forgings are manufactured according to international standards including ASTM, ASME, ANSI, EU, DIN, IS, ISO and JIS Standard making us among the leading <u>Nickel Alloy Stockist In India</u>.</p>
                            </div>
                         </div>
                      </div>
@@ -303,7 +303,7 @@
 
                         <div class="wt-post-title ">
                            <h2 class="post-title">Client Projects For Nickel Alloy</h2>
-                           <p>Ayaan Metals is a prominent <b>Nickel Alloy Supplier In India</b>. We ensure on-time deliveries, competitive pricing and high-quality products and our clientele is familiar with it.</p>
+                           <p>Ayaan forgings is a prominent <b>Nickel Alloy Supplier In India</b>. We ensure on-time deliveries, competitive pricing and high-quality products and our clientele is familiar with it.</p>
                            <div class="table-responsive">
                               <table class="table table-hover table-bordered">
                                  <tbody>
@@ -520,7 +520,7 @@
              <h4 class="widget-title">Get in Touch </h4>
           </div>
           <div class="form">
-             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php" method="post">
+             <form id="contactForm" action="https://olgagrom.com/f60cf/ayanforging.com/message-sent-successfully.php" method="post">
                 <div class="col-md-12">
                    <input type="text" name="name" placeholder="Your Name" class="form-control" required="">
                    <input type="email" name="email" placeholder="Your Email" class="form-control" required="">
@@ -546,7 +546,7 @@
           <p> </p>
           <ul class="widget_address">
              <li><i class="flaticon-location"></i>Address : 43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</li>
-             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
+             <li><i class="flaticon-mail"></i>Email : <a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanforging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></li>
 
              <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a href="tel:+919930614069">+91 99306 14069</a> </li>
              <li><i class="c-info-icon flaticon-phone-call"></i>Landline : <a href="tel:+912223051060">+91 22 2305 1060</a> </li>

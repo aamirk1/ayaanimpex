@@ -6,10 +6,10 @@
             <div class="d-flex justify-content-between">
                 <div class="wt-topbar-left d-flex flex-wrap align-content-start">
                     <ul class="wt-topbar-info e-p-bx text-white">
-                        <li><i class="fa fa-phone"></i><a href="tel:+919930614069" style="color:white;">+91 99306
+                        <li><i class="fa fa-phone"></i><a style="color:white;" href="tel:+919930614069" style="color:white;">+91 99306
                                 14069</a></li>
                         <li><i class="fa fa-envelope"></i><a
-                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20"
+                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanforging.com%20please%20send%20me%20quick%20quotes%20"
                                 style="color:white;">ayaanimpex6@gmail.com</a></li>
                     </ul>
                 </div>

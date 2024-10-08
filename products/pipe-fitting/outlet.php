@@ -65,8 +65,8 @@
                                     </div>
                                     <div class="wt-post-title ">
                                         <h1 class="post-title"> Outlet Fitting Manufacturer, Supplier &amp; Stockist in
-                                            India - Ayaan Metals</h1>
-                                        <p>Ayaan Metals is one of the leading <b><a
+                                            India - Ayaan forgings</h1>
+                                        <p>Ayaan forgings is one of the leading <b><a
                                                     href="outlet-fitting-manufacturer-supplier-stockist-india.php">
                                                     Outlet Fitting Manufacturer in India</a></b>. we have available all
                                             type of Outlet Fitting in different <b>material, sizes, standards and
@@ -107,7 +107,7 @@
                                         <h2 class="post-title">Stainless Steel Outlet Fittings Manufacturer, Carbon
                                             Steel Outlet Fitting Supplier, Mild Steel Outlet Fitting Stockist in India
                                         </h2>
-                                        <p>Ayaan Metals is become a largest <b> Outlet Fitting Manufacturer and Supplier
+                                        <p>Ayaan forgings is become a largest <b> Outlet Fitting Manufacturer and Supplier
                                                 in India</b>, We are a top suppliers of <em>Elbow Fitting, Outlet
                                                 Fitting, Cross Fitting, Nipples Fitting, Outlet Fitting, End Cap
                                                 Fitting, and Reducer Fittings</em>. We maintain an extensive stock of
@@ -327,7 +327,7 @@
 
                                 <div class="wt-post-title ">
                                     <h2 class="post-title">Client Projects For Outlet Fitting</h2>
-                                    <p>Ayaan Metals stands for on-time deliveries, competitive pricing, and high-quality
+                                    <p>Ayaan forgings stands for on-time deliveries, competitive pricing, and high-quality
                                         as result we're leading <b>Outlet Fitting Manufacturer and Supplier in India</b>
                                         and our clients familiar with it.</p>
 
@@ -600,7 +600,7 @@
                                     </div>
                                     <div class="form">
                                         <form id="contactForm"
-                                            action="https://olgagrom.com/f60cf/ayanmetal.com/message-sent-successfully.php"
+                                            action="https://olgagrom.com/f60cf/ayanforging.com/message-sent-successfully.php"
                                             method="post">
                                             <div class="col-md-12">
                                                 <input type="text" name="name" placeholder="Your Name"
@@ -637,7 +637,7 @@
                                             Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai
                                             - 400 008.</li>
                                         <li><i class="flaticon-mail"></i>Email : <a
-                                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanmetal.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a>
+                                                href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanforging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a>
                                         </li>
 
                                         <li><i class="c-info-icon flaticon-phone-call"></i>Call : <a
