@@ -9,7 +9,8 @@
             <div class="wt-bnr-inr-entry">
                 <div class="auto-container">
                     <div class="content-box clearfix">
-                        <span class="breadcrumbs">Slip On Flanges Manufacturer, Supplier &amp; Stockist in India</span>
+                        <span class="breadcrumbs">Weld Neck Flanges Manufacturer, Supplier &amp; Stockist in
+                            India</span>
                         <!--
 <ul class="bread-crumb clearfix">
 <li><a href="index.php">Home</a></li>
@@ -54,10 +55,10 @@
                             <!--Block one-->
                             <div class="blog-post blog-post-4-outer blog-list-style m-b30">
                                 <div class="wt-post-media wt-img-effect zoom-slow">
-                                    <a href="slip-on-flange-manufacturer-supplier-stockist-india.php"><img
-                                            src="<?php echo $base_url; ?>asset/images/ayaanForgings/types-head/flange/slip-on-flange.jpg"
-                                            alt=" Slip On Flange Manufacturer in India"
-                                            title=" Slip On Flange Manufacturer in India"></a>
+                                    <a href="weld-neck-flange-manufacturer-supplier-stockist-india.php"><img
+                                            src="<?php echo $base_url; ?>asset/images/ayaanForgings/types-head/flange/weld-neck-flange.jpg"
+                                            alt=" Weld Neck Flange Manufacturer in India"
+                                            title=" Weld Necks Flange Manufacturer in India"></a>
                                 </div>
                                 <div class="wt-post-info">
                                     <div class="wt-post-meta ">
@@ -66,25 +67,25 @@
                                         </ul>
                                     </div>
                                     <div class="wt-post-title ">
-                                        <h1 class="post-title"> Slip On Flange Manufacturer, Supplier &amp; Stockist in
-                                            India - Ayaan Metals</h1>
+                                        <h1 class="post-title"> Weld Neck Flange Manufacturer, Supplier &amp; Stockist
+                                            in India - Ayaan Metals</h1>
                                         <p> Ayaan Metals is one of the leading <b><a
-                                                    href="slip-on-flange-manufacturer-supplier-stockist-india.php"> Slip
-                                                    On Flange Manufacturer in India</a></b>. our manufactured Slip On
-                                            Flanges matches national and international quality standards and our
-                                            supplied Slip On Flanges are used in various industries for multiple
-                                            purpose. we have large inventory and we supply Slip On Flange in different
+                                                    href="weld-neck-flange-manufacturer-supplier-stockist-india.php">
+                                                    Weld Neck Flange Manufacturer in India</a></b>. our manufactured
+                                            Weld Neck Flanges matches national and international quality standards and
+                                            our supplied Weld Neck Flanges are used in various industries for multiple
+                                            purpose. we have large inventory and we supply Weld Neck Flange in different
                                             standards including ANSI/ASME B16.5, B16.47 Series A &amp; B, B16.48,
                                             BS4504, BS 10, EN-1092, DIN, ANSI Flanges, ASME Flanges, BS Flanges, DIN
                                             Flanges, EN Flanges, GOST Flanges.</p>
 
-                                        <p>We offer to our clients a wide range of Slip On Flange which are available in
-                                            variety of grades and materials such as <u>Stainless Steel, Carbon Steel,
+                                        <p>We offer to our clients a wide range of Weld Neck Flange which are available
+                                            in variety of grades and materials such as <u>Stainless Steel, Carbon Steel,
                                                 Nickel Alloys, Incoloy, Monel, Hastelloy, Duplex Steel and Alloy
-                                                Steel</u>. As a popular<b> Slip On Flange Manufacturer in India</b>, we
-                                            have undertaken several strategic measures and initiatives to faster the
+                                                Steel</u>. As a popular<b> Weld Neck Flange Manufacturer in India</b>,
+                                            we have undertaken several strategic measures and initiatives to faster the
                                             development of the manufacturing and services sectors and we are also
-                                            leading supplier of <b> Slip On Flange Stockist in India</b> in the metal
+                                            leading supplier of <b> Weld Neck Flange Stockist in India</b> in the metal
                                             market.</p>
 
 
@@ -104,18 +105,20 @@
                                 <div class="wt-post-info">
 
                                     <div class="wt-post-title ">
-                                        <h2 class="post-title">Stainless Steel Slip On Flange Manufacturer, Carbon steel
-                                            Slip On Flange Supplier, Nickel Alloys Slip On Flange Stockist in India</h2>
+                                        <h2 class="post-title">Stainless Steel Weld Neck Flange Manufacturer, Carbon
+                                            steel Weld Neck Flange Supplier, Nickel Alloys Weld Neck Flange Stockist in
+                                            India</h2>
                                         <p> We have a highly skilled and experienced team of professionals and employees
-                                            who manufacture high-quality Slip On Flanges. We also provide these Slip On
-                                            Flanges in different standard and customized sizes based on the client's
-                                            needs. These Slip On Flanges are developed as per national and international
-                                            standards and specifications. Our employees carefully select these Slip On
-                                            Flanges with modern tools and advanced manufacturing techniques. Stainless
-                                            Steel Slip On Flanges are widely used in automobiles, construction,
-                                            pharmaceuticals, chemicals, and oil and gas industries. We are also the
-                                            supplier of <a href="blind-flange-manufacturer-supplier-stockist-india.php">
-                                                Blind Flanges</a> in India.
+                                            who manufacture high-quality Weld Neck Flanges. We also provide these Weld
+                                            Neck Flanges in different standard and customized sizes based on the
+                                            client's needs. These Weld Neck Flanges are developed as per national and
+                                            international standards and specifications. Our employees carefully select
+                                            these Weld Neck Flanges with modern tools and advanced manufacturing
+                                            techniques. Stainless Steel Weld Neck Flanges are widely used in
+                                            automobiles, construction, pharmaceuticals, chemicals, and oil and gas
+                                            industries. We are also the supplier of <a
+                                                href="slip-on-flange-manufacturer-supplier-stockist-india.php"> Slip On
+                                                Flanges</a> in India.
 
                                         </p>
                                     </div>
@@ -130,7 +133,7 @@
                                 <div class="wt-post-info">
 
                                     <div class="wt-post-title ">
-                                        <h2 class="post-title">Slip On Flange Standard, Specification, Size and Grades
+                                        <h2 class="post-title">Weld Neck Flange Standard, Specification, Size and Grades
                                         </h2>
                                         <p>Specification of Flange with grades and standard size define in the table
                                             below .</p>
@@ -154,7 +157,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td><strong>Type</strong></td>
-                                                        <td>Slip On Flanges, Socket Weld Flanges, Orifice Flanges, Blind
+                                                        <td>Slip on Flanges, Socket Weld Flanges, Orifice Flanges, Blind
                                                             Flanges, Lap joint Flanges, Weld Neck Flanges, Reducing
                                                             Flanges, Threaded Flanges</td>
                                                     </tr>
@@ -517,7 +520,7 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title">Application &amp; Uses of Slip On Flanges.</h2>
+                                    <h2 class="post-title">Application &amp; Uses of Weld Neck Flanges.</h2>
                                     <div class="row">
                                         <div class="col-md-6 m-b30">
 
@@ -566,7 +569,7 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title"> Additional Information of Slip On Flanges </h2>
+                                    <h2 class="post-title"> Additional Information of Weld Neck Flanges </h2>
                                     <ul class="ttm-list ttm-list-style-icon clearfix">
                                         <li><b>Payment Modes :</b> LC (Letter of Credit), TT (Telegraphic Transfer or
                                             Wire Transfer), Cheque, and others.</li>
@@ -588,12 +591,12 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h2 class="post-title">Client Projects For Slip On Flanges</h2>
-                                    <p>Slip On Flanges manufactured by Ayaan Metal are used in several international
-                                        projects. we have clients with regular demand for Slip On Flanges from various
-                                        countries and we export Slip On Flanges. Ayaan Metals stands for on-time
+                                    <h2 class="post-title">Client Projects For Weld Neck Flanges</h2>
+                                    <p>Weld Neck Flanges manufactured by Ayaan Metal are used in several international
+                                        projects. we have clients with regular demand for weld neck flanges from various
+                                        countries and we export Weld Neck Flanges. Ayaan Metals stands for on-time
                                         deliveries, competitive pricing, and high-quality as result we're leading
-                                        <b>Slip On Flange Manufacturer in India</b></p>
+                                        <b>Weld Neck Flange Manufacturer in India</b></p>
 
 
                                     <div class="table-responsive">
@@ -604,19 +607,19 @@
                                                     <th>Cities</th>
                                                 </tr>
                                                 <tr>
-                                                    <td>Slip On Flanges Supplied To Oil &amp; Gas Industry</td>
+                                                    <td>Weld Neck Flanges Supplied To Oil &amp; Gas Industry</td>
                                                     <td>Bengaluru</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>All types of Slip On Flanges Supplied</td>
+                                                    <td>All types of Weld Neck Flanges Supplied</td>
                                                     <td>Ahmedabad</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Slip On Flanges</td>
+                                                    <td>Weld Neck Flanges</td>
                                                     <td>Surat</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Carbon Steel Slip On Flanges</td>
+                                                    <td>Carbon Steel Weld Neck Flanges</td>
                                                     <td>Rajahmundry</td>
                                                 </tr>
 
@@ -636,8 +639,8 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Cities We Supply Slip On Flanges.</h3>
-                                    <p> Our extensive Slip On Flanges range is readily available in numerous cities
+                                    <h3 class="post-title">Cities We Supply Weld Neck Flanges.</h3>
+                                    <p> Our extensive Weld Neck Flanges range is readily available in numerous cities
                                         across India, enabling us to efficiently serve our valued customers. Every
                                         month, we supply and export containers of Flange to a range of clients from
                                         Indian ports to various cities.</p>
@@ -713,8 +716,8 @@
                             <div class="wt-post-info">
 
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Countries We Export Slip On Flanges.</h3>
-                                    <p> Our extensive Slip On Flanges range is readily available to serve numerous
+                                    <h3 class="post-title">Countries We Export Weld Neck Flanges.</h3>
+                                    <p> Our extensive Weld Neck Flanges range is readily available to serve numerous
                                         countries across the world, enabling us to efficiently serve our valued
                                         customers. Every month, We export containers of Flanges to a range of clients
                                         from Indian ports to various different countries.</p>

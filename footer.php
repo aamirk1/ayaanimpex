@@ -66,8 +66,8 @@
 2nd Floor, Room no 12, Near Mehfil Hall,
 Morland Road, Mumbai - 400 008.</li>
 									<li><i class="flaticon-mail"></i><a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20" style="color:white;">ayaanimpex6@gmail.com</a></li>
-									<li><i class="c-info-icon flaticon-phone-call"></i><a href="tel:+919930614069" style="color:white;">+91 99306 14069</a></li>
-									<li><i class="c-info-icon flaticon-phone-call"></i><a href="tel:+912223051060" style="color:white;">+91 22 2305 1060</a></li>
+									<li><i class="fi fi-rr-phone-call"></i><a href="tel:+919930614069" style="color:white;">+91 99306 14069</a></li>
+									<li><i class="fi fi-rr-phone-call"></i><a href="tel:+912223051060" style="color:white;">+91 22 2305 1060</a></li>
                                 </ul>  
                             </div>
                         </div>

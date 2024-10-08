@@ -129,25 +129,25 @@
                                             href="<?php echo $base_url;?>products/flanges-manufacturer-supplier-stockist-india.php">Flanges</a>
                                         <div class="fa fa-angle-right submenu-toogle"></div>
                                         <ul class="sub-menu">
-                                            <li><a href="weld-neck-flange-manufacturer-supplier-stockist-india.php">Weld
+                                            <li><a href="<?php echo $base_url;?>products/flanges/weld-neck-flange.php">Weld
                                                     Neck Flange</a></li>
-                                            <li><a href="slip-on-flange-manufacturer-supplier-stockist-india.php">Slip
+                                            <li><a href="<?php echo $base_url;?>products/flanges/slip-on-flange.php">Slip
                                                     On Flange</a></li>
-                                            <li><a href="blind-flange-manufacturer-supplier-stockist-india.php">Blind
+                                            <li><a href="<?php echo $base_url;?>products/flanges/blind-flange.php">Blind
                                                     Flange</a></li>
-                                            <li><a href="threaded-flange-manufatcurer-supplier-stockist-india.php">Threaded
+                                            <li><a href="<?php echo $base_url;?>products/flanges/threaded-flange.php">Threaded
                                                     Flange</a></li>
 
 
-                                            <li><a href="pressed-flange-manufacturer-supplier-stockist-india.php">Pressed
+                                            <li><a href="<?php echo $base_url;?>products/flanges/pressed-flange.php">Pressed
                                                     Flange</a></li>
-                                            <li><a href="lap-joint-flange-manufacturer-supplier-stockist-india.php">Lap
+                                            <li><a href="<?php echo $base_url;?>products/flanges/lap-joint-flange.php">Lap
                                                     Joint Flange</a></li>
-                                            <li><a href="spade-flange-manufacturer-supplier-stockist-india.php">Spade
+                                            <li><a href="<?php echo $base_url;?>products/flanges/spade-flange.php">Spade
                                                     Flange</a></li>
-                                            <li><a href="reducing-flange-manufacturer-supplier-stockist-india.php">Reducing
+                                            <li><a href="<?php echo $base_url;?>products/flanges/reducing-flange.php">Reducing
                                                     Flange</a></li>
-                                            <li><a href="orifice-flange-manufacturer-supplier-stockist-india.php">Orifice
+                                            <li><a href="<?php echo $base_url;?>products/flanges/orifice-flange.php">Orifice
                                                     Flange</a></li>
 
 
@@ -163,17 +163,17 @@
                             <li class="has-child"><a href="<?php echo $base_url;?>material.php">Material</a>
                                 <div class="fa fa-angle-right submenu-toogle"></div>
                                 <ul class="sub-menu">
-                                    <li><a href="stainless-steel-supplier-stockist-india.php">Stainless Steel</a></li>
-                                    <li><a href="carbon-steel-supplier-stockist-india.php">Carbon Steel</a></li>
-                                    <li><a href="duplex-steel-supplier-stockist-india.php">Duplex Steel</a></li>
-                                    <li><a href="super-duplex-steel-supplier-stockist-india.php">Super Duplex Steel</a>
+                                    <li><a href="<?php echo $base_url;?>material/stainless-steel.php">Stainless Steel</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/carbon-steel.php">Carbon Steel</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/duplex-steel.php">Duplex Steel</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/super-duplex-steel.php">Super Duplex Steel</a>
                                     </li>
-                                    <li><a href="inconel-supplier-stockist-india.php">Inconel</a></li>
-                                    <li><a href="monel-supplier-stockist-india.php">Monel</a></li>
-                                    <li><a href="nickel-alloy-supplier-stockist-india.php">Nickel Alloy</a></li>
-                                    <li><a href="hastelloy-supplier-stockist-india.php">Hastelloy</a></li>
-                                    <li><a href="titanium-supplier-stockist-india.php">Titanium</a></li>
-                                    <li><a href="copper-alloy-supplier-stockist-india.php">Copper Alloy</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/inconel.php">Inconel</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/monel.php">Monel</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/nickel-alloy.php">Nickel Alloy</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/hastelloy.php">Hastelloy</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/titanium.php">Titanium</a></li>
+                                    <li><a href="<?php echo $base_url;?>material/copper-alloy.php">Copper Alloy</a></li>
                                 </ul>
                             </li>
 
