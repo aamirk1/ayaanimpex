@@ -85,7 +85,8 @@ include('header.php');
                                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 m-b30">
                                                     <div class="wt-icon-box-wraper left counter-outer-one">
                                                         <span class="icon-md site-text-black">
-                                                            <i class="flaticon-growth"></i>
+                                                        <img src="<?php echo $base_url;?>asset/images/icon/growth.png" alt="growth" srcset="">
+                                      
                                                         </span>
                                                         <div class="icon-content">
                                                             <div class="m-b5"><span class="counter">500</span>+</div>
@@ -96,8 +97,10 @@ include('header.php');
                     
                                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 m-b30">
                                                     <div class="wt-icon-box-wraper left counter-outer-one">
-                                                        <span class="icon-md site-text-black">
-                                                            <i class="flaticon-briefing"></i>
+                                                        <span class="icon-md site-text-black"style="width: 50px;">
+                                                            <!-- <i class="flaticon-briefing"></i> -->
+                                                            <img src="<?php echo $base_url;?>asset/images/icon/briefing2.png" alt="growth" srcset="">
+                                      
                                                         </span>
                                                         <div class="icon-content">
                                                             <div class="m-b5"><span class="counter">650</span>+</div>
@@ -110,7 +113,9 @@ include('header.php');
                                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 m-b30">
                                                     <div class="wt-icon-box-wraper left counter-outer-one">
                                                         <span class="icon-md site-text-black">
-                                                            <i class="flaticon-engineer"></i>
+                                                            <!-- <i class="flaticon-engineer"></i> -->
+                                                            <img src="<?php echo $base_url;?>asset/images/icon/worker.png" alt="growth" srcset="">
+                                      
                                                         </span>
                                                         <div class="icon-content">
                                                             <div class="m-b5"><span class="counter">40</span>+</div>

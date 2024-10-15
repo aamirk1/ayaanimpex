@@ -6,11 +6,11 @@
             <div class="d-flex justify-content-between">
                 <div class="wt-topbar-left d-flex flex-wrap align-content-start">
                     <ul class="wt-topbar-info e-p-bx text-white">
-                        <li><i class="fa fa-phone"></i><a style="color:white;" href="tel:+919930614069" style="color:white;">+91 99306
+                        <li><i class="fa fa-phone"></i><a style="color:white !important;" href="tel:+919930614069" style="color:white;">+91 99306
                                 14069</a></li>
                         <li><i class="fa fa-envelope"></i><a
                                 href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanforging.com%20please%20send%20me%20quick%20quotes%20"
-                                style="color:white;">ayaanimpex6@gmail.com</a></li>
+                                style="color:white !important;">ayaanimpex6@gmail.com</a></li>
                     </ul>
                 </div>
 
@@ -18,11 +18,11 @@
 
 
                     <ul class="social-icons">
-                        <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                        <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                        <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                        <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                        <li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
+                        <li><a  style="color:white !important;" href="javascript:void(0);" class="fa fa-google"></a></li>
+                        <li><a  style="color:white !important;" href="javascript:void(0);" class="fa fa-rss"></a></li>
+                        <li><a  style="color:white !important;" href="javascript:void(0);" class="fa fa-facebook"></a></li>
+                        <li><a  style="color:white !important;" href="javascript:void(0);" class="fa fa-twitter"></a></li>
+                        <li><a  style="color:white !important;" href="javascript:void(0);" class="fa fa-linkedin"></a></li>
                     </ul>
 
                 </div>

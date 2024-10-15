@@ -43,14 +43,14 @@
   .flaticon-graphic-tool:before { content: "\f108"; }
   .flaticon-quote:before { content: "\f109"; }
   .flaticon-quote-1:before { content: "\f10a"; }
-  .flaticon-mail:before { content: "\f10b"; }
+  .fas fa-envelope:before { content: "\f10b"; }
   .flaticon-worker:before { content: "\f10c"; }
   .flaticon-briefing:before { content: "\f10d"; }
   .flaticon-reliability:before { content: "\f10e"; }
   .flaticon-helmet:before { content: "\f10f"; }
   .flaticon-trophy:before { content: "\f110"; }
   .flaticon-deal:before { content: "\f111"; }
-  .flaticon-location:before { content: "\f112"; }
+  .fas fa fa-location-dot:before { content: "\f112"; }
   .flaticon-email:before { content: "\f113"; }
   .flaticon-phone-call:before { content: "\f114"; }
   .flaticon-carpenter:before { content: "\f115"; }

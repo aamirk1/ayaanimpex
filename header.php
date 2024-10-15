@@ -18,8 +18,9 @@
     <link rel="stylesheet" type="text/css" href="<?php echo $base_url;?>asset/css/switcher.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $base_url;?>asset/css/lc_lightbox.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $base_url;?>asset/css/flaticon.min.css">
-   
-<link rel="stylesheet" href="plugins/revolution/css/settings.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 <link rel="stylesheet" href="plugins/revolution/css/navigation.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>

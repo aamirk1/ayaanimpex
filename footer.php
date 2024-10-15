@@ -17,7 +17,7 @@
     width: 146px;
     border-radius: 10px;"></a>
                         </div>
-                        <p style="color:white;">Ayaan Forging is the largest Nut Bolts &amp; Pipe Fittings Manufacturer.
+                        <p style="color:white !important;">Ayaan Forging is the largest Nut Bolts &amp; Pipe Fittings Manufacturer.
                             We Supply &amp; Export a wide range of Flanges, Plates to various areas of the world.</p>
 
 
@@ -28,15 +28,15 @@
                     <div class="widget widget_services">
                         <h3 class="widget-title">Quick Links</h3>
                         <ul>
-                            <li><a href="index.php" style="color:white;"><i class="fa fa-angle-double-right"></i>
+                            <li><a href="index.php" style="color:white !important;"><i class="fa fa-angle-double-right"></i>
                                     Home</a></li>
-                            <li><a href="about.php" style="color:white;"><i class="fa fa-angle-double-right"></i>
+                            <li><a href="about.php" style="color:white !important;"><i class="fa fa-angle-double-right"></i>
                                     About</a></li>
-                            <li><a href="products.php" style="color:white;"><i class="fa fa-angle-double-right"></i>
+                            <li><a href="products.php" style="color:white !important;"><i class="fa fa-angle-double-right"></i>
                                     Products</a></li>
-                            <li><a href="quality-policy.php" style="color:white;"><i
+                            <li><a href="quality-policy.php" style="color:white !important;"><i
                                         class="fa fa-angle-double-right"></i> Quality Policy</a></li>
-                            <li><a href="contact.php" style="color:white;"><i class="fa fa-angle-double-right"></i>
+                            <li><a href="contact.php" style="color:white !important;"><i class="fa fa-angle-double-right"></i>
                                     Contact</a></li>
                         </ul>
                     </div>
@@ -46,17 +46,17 @@
                         <h3 class="widget-title">Products</h3>
                         <ul>
                             <li><a href="<?php echo $base_url; ?>products/fastener-manufacturer-supplier-stockist-india.php"
-                                    style="color:white;"><i class="fa fa-angle-double-right"></i> Fastener</a></li>
+                                    style="color:white !important;"><i class="fa fa-angle-double-right"></i> Fastener</a></li>
                             <li><a href="<?php echo $base_url; ?>products/pipe-fitting-manufacturer-supplier-stockist-india.php"
-                                    style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe Fittings</a></li>
+                                    style="color:white !important;"><i class="fa fa-angle-double-right"></i> Pipe Fittings</a></li>
                             <li><a href="<?php echo $base_url; ?>products/flanges-manufacturer-supplier-stockist-india.php"
-                                    style="color:white;"><i class="fa fa-angle-double-right"></i> Flanges</a></li>
+                                    style="color:white !important;"><i class="fa fa-angle-double-right"></i> Flanges</a></li>
                             <li><a href="<?php echo $base_url; ?>products/plate-manufacturer-supplier-stockist-india.php"
-                                    style="color:white;"><i class="fa fa-angle-double-right"></i> Plates</a></li>
+                                    style="color:white !important;"><i class="fa fa-angle-double-right"></i> Plates</a></li>
 
 
                             <li><a href="<?php echo $base_url; ?>products/pipe-manufacturer-supplier-stockist-india.php"
-                                    style="color:white;"><i class="fa fa-angle-double-right"></i> Pipe</a></li>
+                                    style="color:white !important;"><i class="fa fa-angle-double-right"></i> Pipe</a></li>
 
 
                             <!--
@@ -74,17 +74,17 @@
                     <div class="widget">
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="widget_address">
-                            <li style="color:white;"><i class="flaticon-location"></i>43/45, Sutarwala Bldg. (Vadgama
+                            <li style="color:white !important;"><i class="fas fa fa-location-dot"></i>43/45, Sutarwala Bldg. (Vadgama
                                 Bldg), A-Wing,
                                 2nd Floor, Room no 12, Near Mehfil Hall,
                                 Morland Road, Mumbai - 400 008.</li>
-                            <li><i class="flaticon-mail"></i><a
+                            <li><i class="fas fa-envelope"></i><a
                                     href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20"
-                                    style="color:white;">ayaanimpex6@gmail.com</a></li>
-                            <li><i class="c-info-icon flaticon-phone-call"></i><a href="tel:+919930614069"
-                                    style="color:white;">+91 99306 14069</a></li>
-                            <li><i class="c-info-icon flaticon-phone-call"></i><a href="tel:+912223051060"
-                                    style="color:white;">+91 22 2305 1060</a></li>
+                                    style="color:white !important;">ayaanimpex6@gmail.com</a></li>
+                            <li><i class="fa fa-phone"></i><a href="tel:+919930614069"
+                                    style="color:white !important;">+91 99306 14069</a></li>
+                            <li><i class="fa fa-phone"></i></i><a href="tel:+912223051060"
+                                    style="color:white !important;">+91 22 2305 1060</a></li>
                         </ul>
                     </div>
                 </div>
@@ -105,9 +105,9 @@
 
                 <div class="footer-copy-right">
                     <span class="copyrights-text">Copyright &copy; <?php echo date("Y"); ?> <a
-                            href="<?php echo $base_url; ?>index.php" style="color:white;">Ayaan Forging</a>. | All Rights
+                            href="<?php echo $base_url; ?>index.php" style="color:white !important;">Ayaan Forging</a>. | All Rights
                         Reserved | Designed and Developed by<a href="https://www.zapwms.com/" target="_blank"
-                            style="color:white;"> ZAP WMS</a></span><a class="whatsapp-float" target="_blank"
+                            style="color:white !important;"> ZAP WMS</a></span><a class="whatsapp-float" target="_blank"
                         href="https://wa.me/+919930614069?text=RFQ%20Enquiry%20-%20ayanForging.com%20please%20send%20me%20quick%20Quotes">
                         <img src="<?php echo $base_url; ?>asset/images/whatsapp-icon.png"
                             alt="Direct message to Ayaan Forgings via whatsapp"
@@ -122,8 +122,11 @@
 <button class="scroltop" style="display: inline-block;"><span class="fa fa-angle-up  relative"
         id="btn-vibrate"></span></button>
 
+
 <script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
 <script src="plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="plugins/revolution/js/revolution-plugin.js"></script>
+<script src="<?php echo $base_url; ?>asset/js/rev-script-2.js"></script><!-- MAGNIFIC-POPUP JS -->
 <script src="<?php echo $base_url; ?>asset/js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
 <script src="<?php echo $base_url; ?>asset/js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
 <script src="<?php echo $base_url; ?>asset/js/popper.min.js"></script><!-- WAYPOINTS JS -->
@@ -143,6 +146,14 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
 </body>
 
 </html>

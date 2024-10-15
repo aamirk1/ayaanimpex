@@ -41,7 +41,10 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="wt-icon-box-wraper  center bg-white hover-box-style-2 bounce-right-animation">
                         <div class="icon-xld m-b30 site-text-primary">
-                            <span class="icon-cell"><i class="fa fa-flaticon-worker"></i></span>
+                            <span class="icon-cell">
+                                <!-- <i class="fa fa-flaticon-worker"></i> -->
+                                <img src="<?php echo $base_url;?>asset/images/icon/supplier.png" alt="" srcset="">
+                            </span>
                         </div>
                         <div class="icon-content text-black">
                             <h4 class="wt-tilte">ISO Certified</h4>

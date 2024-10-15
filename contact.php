@@ -44,20 +44,20 @@ include('header.php');
 			     <div class="contact-info-section m-b30" style="margin-bottom: -58px;">  
                         <div class="row">                    
                             <div class="col-xl-4 col-lg-4 col-md-4 c-info-column">
-                                <div class="c-info-icon flaticon-location"></div>
+                                <div class="c-info-icon fas fa fa-location-dot"></div>
                                 <span class="m-t0">Address info</span>
                                 <p>43/45, Sutarwala Bldg. (Vadgama Bldg), A-Wing, 2nd Floor, Room no 12, Near Mehfil Hall, Morland Road, Mumbai - 400 008.</p>
                             </div>  
         
                             <div class="col-xl-4 col-lg-4 col-md-4 c-info-column">
-                                <div class="c-info-icon flaticon-phone-call"></div>
+                                <div class="c-info-icon fas fa fa-phone"></div>
                                 <span class="m-t0">Phone number</span>
                                 <p><a href="tel:+919930614069">+91 99306 14069</a></p>
                                 <p><a href="tel:+912223051060">+91 22 2305 1060</a></p>
                             </div>
         
                             <div class="col-xl-4 col-lg-4 col-md-4 c-info-column">
-                                <div class="c-info-icon flaticon-email"></div>
+                                <div class="c-info-icon fas fa-envelope"></div>
                                 <span class="m-t0">Email address</span>
 								<p><a href="mailto:ayaanimpex6@gmail.com?subject=RFQ%20Enquiry%20ayaanForging.com%20please%20send%20me%20quick%20quotes%20">ayaanimpex6@gmail.com</a></p>
                             </div>

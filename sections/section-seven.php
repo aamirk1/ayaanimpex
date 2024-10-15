@@ -22,8 +22,10 @@
                             <div class="square-container">
                                 <div class="wt-icon-box-wraper m-b30">
                                     <div class="icon-lg inline-icon">
-                                        <span class="icon-cell site-text-primary"><i
-                                                class="flaticon-briefing"></i></span>
+                                        <span class="icon-cell site-text-primary">
+                                            <!-- <i class="flaticon-briefing"></i> -->
+                                            <img src="<?php echo $base_url;?>asset/images/icon/briefing.png" alt="" srcset="">
+                                        </span>
                                     </div>
                                 </div>
                                 <h4 class="wt-title"><a href="index.php">Mission</a></h4>
@@ -81,8 +83,10 @@
                             <div class="square-container">
                                 <div class="wt-icon-box-wraper m-b30">
                                     <div class="icon-lg inline-icon">
-                                        <span class="icon-cell site-text-primary"><i
-                                                class="flaticon-antivirus"></i></span>
+                                        <span class="icon-cell site-text-primary">
+                                            <!-- <i class="flaticon-antivirus"></i> -->
+                                            <img src="<?php echo $base_url;?>asset/images/icon/antivirus.png" alt="" srcset="">
+                                            </span>
                                     </div>
                                 </div>
                                 <h4 class="wt-title"><a href="index.php">Values</a></h4>

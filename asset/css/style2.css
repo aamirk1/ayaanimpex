@@ -11407,7 +11407,7 @@ form.woocommerce-ordering:after {
 }
 
 .effect-hvr2 .effect-sarah .effect-hvr2-inner .site-button-link {
-  color: #fff;
+  color: #fff !important;
   opacity: 0;
   display: block;
   transition: opacity 0.35s, transform 0.8s;
@@ -11481,7 +11481,7 @@ form.woocommerce-ordering:after {
 }
 
 .effect-sarah .wt-title a {
-  color: #fff;
+  color: #fff !important;
 }
 
 .effect-sarah .wt-title:after {
